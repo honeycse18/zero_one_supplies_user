@@ -1,0 +1,73 @@
+{
+  "error": false,
+  "msg": "All Cart data",
+  "data": {
+    "totalCarts": {
+      "_id": "64294e648940c23fdb2ce8f4",
+      "carts": 8
+    },
+    "carts": [
+      {
+        "total": 698,
+        "products": [
+          {
+            "cart_id": "65b742c7944f31651f76ba5b",
+            "product": "65840b2cf7863c8a27b0099c",
+            "attributes": [
+              {
+                "key": "couleur",
+                "option": {
+                  "label": "Violet",
+                  "value": "#7D3C98",
+                  "price": 0,
+                  "_id": "64f1f181ff5c54cca874a6dc"
+                }
+              }
+            ],
+            "extra_price": 0,
+            "quantity": 1,
+            "price": 206,
+            "subtotal": 206,
+            "store": "651a72a8e3862bec248e0604",
+            "name": "asdfgh",
+            "image": "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/65840b2cf7863c8a27b0099c/product.webp",
+            "unit": "pcs",
+            "categories": {
+              "_id": "64294e648940c23fdb2ce8f4",
+              "name": "Electronics"
+            },
+            "isAuction": false,
+            "product_location": {
+              "type": "store",
+              "store": {
+                "_id": "651a72a8e3862bec248e0604",
+                "name": "My Store",
+                "address": "RGFQ+FX9, Sonadanga, Khulna Division, 9100, Bangladesh",
+                "location": {
+                  "latitude": 22.82367857975883,
+                  "longitude": 89.53988816589117
+                }
+              }
+            }
+          }
+        ],
+        "store": {
+          "_id": "651a72a8e3862bec248e0604",
+          "name": "My Store"
+        },
+        "couponInfo": {
+          "current_subtotal": 350.2,
+          "save_money": 61.8,
+          "coupon_value": "15%",
+          "coupon_code": "my",
+          "msg": "Coupon 15% applied successfully"
+        }
+      }
+    ],
+    "netAmount": 691448,
+    "company_commission": "5%",
+    "charged_amount": 34572.4,
+    "total_save_money": 0,
+    "total": 726021
+  }
+}

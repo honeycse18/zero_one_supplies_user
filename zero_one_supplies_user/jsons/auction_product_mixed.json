@@ -1,0 +1,74 @@
+{
+    "error": false,
+    "data": {
+        "docs": [
+            {
+                "_id": "6621fe73db6ceea523770479",
+                "name": "Wheelchair Van",
+                "product_condition": "new",
+                "tags": [
+                    "Made in Togo",
+                    "Achat au Togo"
+                ],
+                "price": 2000,
+                "new_arrival": true,
+                "quantity_based_price": [
+                    {
+                        "minimum": 1,
+                        "maximum": 3,
+                        "price": 6000,
+                        "_id": "66130756121e18b5dd73a980"
+                    },
+                    {
+                        "minimum": 4,
+                        "maximum": 9,
+                        "price": 5700,
+                        "_id": "66130756121e18b5dd73a981"
+                    }
+                ],
+                "createdAt": "2024-04-19T05:17:39.278Z",
+                "image": "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/6621fe73db6ceea523770479/product.webp",
+                "discount": false,
+                "discount_value": {
+                    "type": "flat",
+                    "amount": 80,
+                    "start_date": "2023-05-21T18:00:00.000Z",
+                    "end_date": "2023-05-21T18:00:00.000Z"
+                },
+                "current_price": 2000,
+                "store": {
+                    "_id": "65c74aecb3c95856a66218a1",
+                    "name": "sabbir-store",
+                    "verified": true
+                },
+                "product": {
+                    "_id": "65ef4ee2b9de72d0daba984d",
+                    "name": "Multiprise Ingelec 10 M",
+                    "image": "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/65ef4e3ab9de72d0daba9833/1000337050.png",
+                    "store": {
+                        "_id": "6476a8abcee8bf63b040995a",
+                        "name": "XPEDITMARK",
+                        "verified": true
+                    }
+                },
+                "start_date": "2024-04-17T22:00:00.000Z",
+                "end_date": "2024-04-24T23:00:00.000Z",
+                "status": true,
+                
+                "is_end": true,
+                "isAuction": true
+                
+            }
+            
+        ],
+        "totalDocs": 12,
+        "limit": 12,
+        "page": 1,
+        "totalPages": 1,
+        "pagingCounter": 1,
+        "hasPrevPage": false,
+        "hasNextPage": false,
+        "prevPage": null,
+        "nextPage": null
+    }
+}

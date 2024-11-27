@@ -1,0 +1,9 @@
+{
+    "error": false,
+    "msg": "Login successful",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDY5YjE1YmU3NTE2YWQ5Y2JlOTAxY2UiLCJyb2xlIjoidXNlciIsImlhdCI6MTY4NDczMTg5NywiZXhwIjoxNjg2MDI3ODk3fQ.uRb3hbaHLc6s-iViiCETVjsPT5jN-nU89m6UxntWriQ",
+    "role": "user",
+    "phone": "+8801725151578",
+    "verified": true,
+    "active": true
+}

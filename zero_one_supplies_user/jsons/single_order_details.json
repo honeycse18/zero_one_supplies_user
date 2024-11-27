@@ -1,0 +1,97 @@
+{
+    "error": false,
+    "data": {
+        "_id": "6489eb451c48623ee2681a89",
+        "order_number": "01S-90",
+        "date": "2023-06-14",
+        "user": {
+            "_id": "646b2d4999d44af33c686ddf",
+            "first_name": "007",
+            "last_name": "User",
+            "email": "user@gmail.com",
+            "phone": "+8801725151578",
+            "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646b2d4999d44af33c686ddf/profile.jpg"
+        },
+        "products": [
+            {
+                "product": "6476bf03e86690b58768998f",
+                "name": "fsdfsdf",
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476bf01e86690b587689987/product.jpg",
+                "unit": "kg",
+                "price": 1000,
+                "quantity": 1,
+                "subtotal": 1000,
+                "_id": "6489eb451c48623ee2681a8a"
+            }
+        ],
+        "net_price": 1000,
+        "subtotal": 1000,
+        "discount": 0,
+        "discount_coupon": {},
+        "vat": 100,
+        "vat_applied": {
+            "type": "percentage",
+            "value": 10
+        },
+        "delivery": {
+            "distance": 0.74,
+            "per_km_fare": 1,
+            "fare": 0.74
+        },
+        "total": 1200.74,
+        "address": null,
+        "payment_status": "pending",
+        "status": "pending",
+        "createdAt": "2023-06-14T16:31:01.775Z",
+        "updatedAt": "2023-06-14T16:31:01.775Z",
+        "pickup_station": {
+            "_id": "647ecfe4b7ac78d922c96240",
+            "name": "Khulna, DoulotPur",
+            "address": "DoulotPur Bus Stop",
+            "charged": 100,
+            "pickup_location": {
+                "latitude": 22.86844033946918,
+                "longitude": 89.5264384825167
+            }
+        },
+        "cus_address": {
+            "delivery_type": "home",
+            "address_book": {
+                "_id": "646dacbc99d44af33c687d28",
+                "user": "646b2d4999d44af33c686ddf",
+                "name": "Talha",
+                "phone": "123",
+                "province": "Khulna",
+                "city": "Khulna",
+                "area": "Nirala Abashikh",
+                "address": "Khulna",
+                "landmark": "Khulna",
+                "delivery": "home",
+                "default_shipping_address": true,
+                "default_billing_address": true,
+                "createdAt": "2023-05-24T06:20:44.140Z",
+                "updatedAt": "2023-06-10T20:20:59.971Z",
+                "__v": 0,
+                "is_primary": true,
+                "country": "India",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        89.5214413,
+                        22.8694057
+                    ]
+                },
+                "position": {
+                    "latitude": 22.8694057,
+                    "longitude": 89.5214413
+                }
+            },
+            "position": {
+                "latitude": 22.8694057,
+                "longitude": 89.5214413
+            }
+        },
+        "estimated_delivery_day": "2023-06-19T00:00:00.000Z",
+        "received_time": "any_time"
+    }
+}

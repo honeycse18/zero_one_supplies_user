@@ -1,0 +1,16 @@
+{
+  "error": false,
+  "msg": "Coupon applied successfully",
+  "data": {
+    "subtotal": 1702.00,
+    "coupon": {
+      "coupon_value": "12%",
+      "saved_money": 204.24,
+      "current_subtotal": 1497.76
+    },
+    "vat": "10%",
+    "vat_amount": 170.20,
+    "delivery_charge": 50.00,
+    "total": 1717.96
+  }
+}

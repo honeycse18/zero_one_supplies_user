@@ -1,0 +1,40 @@
+{
+    "error": false,
+    "data": {
+        "docs": [
+            {
+                "_id": "64649d7ffd9cf3840874cf88",
+                "product": {
+                    "_id": "64645aa2e862941f4edbbb26",
+                    "name": "Lucky Bamboo Plant",
+                    "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6469a21bca31b8463dd6268e/product.jpg"
+                },
+                "start_date": "2023-05-17T15:23:01.183Z",
+                "end_date": "2023-06-09T01:19:11.350Z",
+                "current_price": 125,
+                "status": true,
+                "createdAt": "2023-05-17T09:25:19.626Z",
+                "is_end": false
+            },
+            {
+                "_id": "6476e56153c175eddd7e1577",
+                "start_date": "2023-05-31T06:12:34.073Z",
+                "end_date": "2023-06-10T06:12:37.386Z",
+                "current_price": 1000,
+                "status": true,
+                "createdAt": "2023-05-31T06:12:49.227Z",
+                "is_end": false,
+                "product": {}
+            }
+        ],
+        "totalDocs": 2,
+        "limit": 12,
+        "page": 1,
+        "totalPages": 1,
+        "pagingCounter": 1,
+        "hasPrevPage": false,
+        "hasNextPage": false,
+        "prevPage": null,
+        "nextPage": null
+    }
+}

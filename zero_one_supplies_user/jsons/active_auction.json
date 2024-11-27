@@ -1,0 +1,47 @@
+{
+    "error": false,
+    "data": {
+        "docs": [
+            {
+                "_id": "64649d7ffd9cf3840874cf88",
+                "product": {
+                    "_id": "64645aa2e862941f4edbbb26",
+                    "name": "Lucky Bamboo Plant",
+                    "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6469a21bca31b8463dd6268e/product.jpg"
+                },
+                "start_date": "2023-05-17T15:23:01.183Z",
+                "end_date": "2023-06-29T20:28:12.540Z",
+                "current_price": 125,
+                "status": true,
+                "createdAt": "2023-05-17T09:25:19.626Z",
+                "user": "646b2d4999d44af33c686ddf",
+                "is_end": false
+            },
+            {
+                "_id": "647877ad41afec168dc0f55a",
+                "product": {
+                    "_id": "6478776acf67179ede0157b2",
+                    "name": "Deepcool GAMMAXX GTE V2 White CPU Air Cooler White 120MM PWM I DP-MCH4-GMX-GTE-V2WH",
+                    "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64787768cf67179ede0157aa/product.png"
+                },
+                "start_date": "2023-06-01T10:49:00.620Z",
+                "end_date": "2023-06-29T20:27:48.091Z",
+                "current_price": 1068,
+                "status": true,
+                "createdAt": "2023-06-01T10:49:17.115Z",
+                "user": "646b2d4999d44af33c686ddf",
+                "is_end": false
+            }
+        ],
+        "totalDocs": 2,
+        "limit": 12,
+        "page": 1,
+        "totalPages": 1,
+        "pagingCounter": 1,
+        "hasPrevPage": false,
+        "hasNextPage": false,
+        "prevPage": null,
+        "nextPage": null
+    }
+}
+

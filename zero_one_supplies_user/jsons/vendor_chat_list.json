@@ -1,0 +1,12 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": [
+    {
+      "_id": "64e9137e2103253d93659a46",
+      "first_name": "BIGSHOP",
+      "last_name": "BIG",
+      "email": "bigshop@gmail.com"
+    }
+  ]
+}

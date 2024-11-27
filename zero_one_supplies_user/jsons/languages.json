@@ -1,0 +1,14 @@
+{
+    "error": false,
+    "msg": "Successfully gets languages",
+    "data": [
+        {
+            "_id": "647a906ce82d32fde6462720",
+            "name": "English",
+            "code": "en",
+            "flag": "US",
+            "active": true,
+            "default": true
+        }
+    ]
+}

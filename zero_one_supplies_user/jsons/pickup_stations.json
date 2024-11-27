@@ -1,0 +1,59 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": {
+    "docs": [
+      {
+        "_id": "648604140c0fb95d61cd69a8",
+        "name": "eeeeee",
+        "address": "dfgdfg",
+        "location": {
+          "latitude": 45345,
+          "longitude": 34534534
+        },
+        "charge": 10,
+        "estimated_day": 7,
+        "active": true,
+        "createdAt": "2023-06-11T17:27:48.469Z",
+        "updatedAt": "2023-06-13T03:31:17.317Z"
+      },
+      {
+        "_id": "647ecfe4b7ac78d922c96240",
+        "name": "Khulna, DoulotPur",
+        "address": "DoulotPur Bus Stop",
+        "location": {
+          "latitude": 22.86844033946918,
+          "longitude": 89.5264384825167
+        },
+        "charge": 100,
+        "estimated_day": 5,
+        "active": true,
+        "createdAt": "2023-06-06T06:19:16.917Z",
+        "updatedAt": "2023-06-11T15:18:15.759Z"
+      },
+      {
+        "_id": "647d31d676427a3893f39732",
+        "name": "khulna pickup point",
+        "address": "Sonadanga, khulna",
+        "location": {
+          "latitude": 22.8031599003108,
+          "longitude": 89.53466732171763
+        },
+        "charge": 30,
+        "estimated_day": 7,
+        "active": true,
+        "createdAt": "2023-06-05T00:52:38.638Z",
+        "updatedAt": "2023-06-05T00:52:38.638Z"
+      }
+    ],
+    "totalDocs": 3,
+    "limit": 10,
+    "page": 1,
+    "totalPages": 1,
+    "pagingCounter": 1,
+    "hasPrevPage": false,
+    "hasNextPage": false,
+    "prevPage": null,
+    "nextPage": null
+  }
+}

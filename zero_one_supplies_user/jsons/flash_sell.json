@@ -1,0 +1,232 @@
+{
+    "error": false,
+    "data": {
+        "docs": [
+            {
+                "_id": "647876cb7e0f87b3be5d2cba",
+                "store": {
+                    "_id": "6458961950b9ce1f9ed218a3",
+                    "name": "Vendor Store"
+                },
+                "name": "Sonicwall  TZz670 Secure Upgrade Plus - Essential Edition 2year  Firewall,  02-SSC-5660",
+                "price": 500,
+                "new_arrival": true,
+                "createdAt": "2023-06-01T10:45:31.920Z",
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/647876ca7e0f87b3be5d2cb2/product.jpg",
+                "rating": 0,
+                "total_review": 0,
+                "discount": false,
+                "discount_value": {},
+                "current_price": 500,
+                "isFavorite": false
+            },
+            {
+                "_id": "646a64a899d44af33c686d32",
+                "name": "Bluetooth Earphone with Power Case",
+                "price": 500,
+                "new_arrival": true,
+                "createdAt": "2023-05-21T18:36:24.719Z",
+                "store": {
+                    "_id": "646ef58f480bea6c4415316a",
+                    "name": "My store"
+                },
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a64a799d44af33c686d2a/product.jpg",
+                "rating": 0,
+                "total_review": 0,
+                "discount": false,
+                "discount_value": {},
+                "current_price": 500,
+                "isFavorite": false
+            },
+            {
+                "_id": "646a61d999d44af33c686d0a",
+                "name": "Sneakers fashion all-match thick-soled striped",
+                "price": 780,
+                "new_arrival": true,
+                "createdAt": "2023-05-21T18:24:25.886Z",
+                "store": {
+                    "_id": "646ef58f480bea6c4415316a",
+                    "name": "My store"
+                },
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a61d699d44af33c686d00/product.jpg",
+                "rating": 4,
+                "total_review": 1,
+                "discount": false,
+                "discount_value": {},
+                "current_price": 780,
+                "isFavorite": false
+            },
+            {
+                "_id": "646a60bf99d44af33c686cf4",
+                "name": "Lotto Casual Lifestyle Shoe for Men",
+                "price": 500,
+                "new_arrival": true,
+                "createdAt": "2023-05-21T18:19:43.411Z",
+                "store": {
+                    "_id": "646ef58f480bea6c4415316a",
+                    "name": "My store"
+                },
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a60bb99d44af33c686cec/product.webp",
+                "rating": 3.5,
+                "total_review": 2,
+                "discount": false,
+                "discount_value": {},
+                "current_price": 500,
+                "isFavorite": false
+            },
+            {
+                "_id": "646a5f8c99d44af33c686cde",
+                "name": "Oppo A57 4GB/64GB",
+                "price": 14990,
+                "new_arrival": false,
+                "createdAt": "2023-05-21T18:14:36.466Z",
+                "store": {
+                    "_id": "646ef58f480bea6c4415316a",
+                    "name": "My store"
+                },
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a5f8a99d44af33c686cd6/product.webp",
+                "rating": 0,
+                "total_review": 0,
+                "discount": false,
+                "discount_value": {},
+                "current_price": 14990,
+                "isFavorite": false
+            },
+            {
+                "_id": "646a5cef99d44af33c686cc8",
+                "name": "vivo Y21T (4GB/128GB)",
+                "price": 12000,
+                "new_arrival": false,
+                "createdAt": "2023-05-21T18:03:27.243Z",
+                "store": {
+                    "_id": "646ef58f480bea6c4415316a",
+                    "name": "My store"
+                },
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a5cec99d44af33c686cc0/product.png",
+                "rating": 0,
+                "total_review": 0,
+                "discount": false,
+                "discount_value": {},
+                "current_price": 12000,
+                "isFavorite": false
+            },
+            {
+                "_id": "646a5bfe99d44af33c686cb4",
+                "name": "Football - Qatar Special Club Ball - Size-5",
+                "price": 1000,
+                "new_arrival": false,
+                "createdAt": "2023-05-21T17:59:26.554Z",
+                "store": {
+                    "_id": "646ef58f480bea6c4415316a",
+                    "name": "My store"
+                },
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a5bfd99d44af33c686cac/product.jpg",
+                "rating": 0,
+                "total_review": 0,
+                "discount": false,
+                "discount_value": {},
+                "current_price": 1000,
+                "isFavorite": false
+            },
+            {
+                "_id": "646a5a5199d44af33c686c82",
+                "store": {
+                    "_id": "646ef58f480bea6c4415316a",
+                    "name": "My store"
+                },
+                "name": "Fanta",
+                "price": 25,
+                "new_arrival": true,
+                "createdAt": "2023-05-21T17:52:17.918Z",
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a5a4f99d44af33c686c7a/product.png",
+                "rating": 0,
+                "total_review": 0,
+                "discount": false,
+                "discount_value": {},
+                "current_price": 25,
+                "isFavorite": false
+            },
+            {
+                "_id": "646a4b7799d44af33c686c11",
+                "name": "New Long Sleeve Casual Shirt for Men",
+                "price": 499,
+                "new_arrival": true,
+                "createdAt": "2023-05-21T16:48:55.507Z",
+                "store": {
+                    "_id": "646ef58f480bea6c4415316a",
+                    "name": "My store"
+                },
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a4b7699d44af33c686c07/product.jpg",
+                "rating": 0,
+                "total_review": 0,
+                "discount": false,
+                "discount_value": {},
+                "current_price": 499,
+                "isFavorite": false
+            },
+            {
+                "_id": "646a495d99d44af33c686bf5",
+                "name": "KONKA SIDE BY SIDE REFRIGERATOR-KRF-606WHI",
+                "price": 55600,
+                "new_arrival": true,
+                "createdAt": "2023-05-21T16:39:57.417Z",
+                "store": {
+                    "_id": "646ef58f480bea6c4415316a",
+                    "name": "My store"
+                },
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a495c99d44af33c686beb/product.jpg",
+                "rating": 0,
+                "total_review": 0,
+                "discount": false,
+                "discount_value": {},
+                "current_price": 55600,
+                "isFavorite": false
+            },
+            {
+                "_id": "646a474199d44af33c686bd3",
+                "name": "Special tape tennis cricket for short and long pitch",
+                "price": 599,
+                "new_arrival": true,
+                "createdAt": "2023-05-21T16:30:57.393Z",
+                "store": {
+                    "_id": "646ef58f480bea6c4415316a",
+                    "name": "My store"
+                },
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a474099d44af33c686bcb/product.jpg",
+                "rating": 0,
+                "total_review": 0,
+                "discount": false,
+                "discount_value": {},
+                "current_price": 599,
+                "isFavorite": false
+            },
+            {
+                "_id": "646a04a84d44f7f13005cdca",
+                "name": "Portable Washing Machine",
+                "price": 499,
+                "new_arrival": true,
+                "createdAt": "2023-05-21T11:46:48.080Z",
+                "store": {
+                    "_id": "646ef58f480bea6c4415316a",
+                    "name": "My store"
+                },
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a04a64d44f7f13005cdc2/product.png",
+                "rating": 5,
+                "total_review": 1,
+                "discount": false,
+                "discount_value": {},
+                "current_price": 499,
+                "isFavorite": false
+            }
+        ],
+        "totalDocs": 21,
+        "limit": 12,
+        "page": 1,
+        "totalPages": 2,
+        "pagingCounter": 1,
+        "hasPrevPage": false,
+        "hasNextPage": true,
+        "prevPage": null,
+        "nextPage": 2
+    }
+}

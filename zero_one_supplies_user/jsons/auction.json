@@ -1,0 +1,33 @@
+{
+    "error": false,
+    "data": {
+      "docs": [
+        {
+          "_id": "6464f20d4d1f9dccff112980",
+          "product": {
+            "_id": "646a64a899d44af33c686d32",
+            "name": "Bluetooth Earphone with Power Case",
+            "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a64a799d44af33c686d2a/product.jpg"
+        },
+          "start_date": "2023-05-18T15:25:54.263Z",
+          "end_date": "2023-05-31T15:26:00.891Z",
+          "current_price": 123,
+          "status": true,
+          "createdAt": "2023-05-17T15:26:05.200Z",
+          "is_end": false
+        }
+      ],
+      "totalDocs": 7,
+      "limit": 12,
+      "page": 1,
+      "totalPages": 1,
+      "pagingCounter": 1,
+      "hasPrevPage": false,
+      "hasNextPage": false,
+      "prevPage": null,
+      "nextPage": null
+    }
+  }
+  
+  
+  

@@ -1,0 +1,18 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": [
+    {
+      "_id": "6534d41dcc6e7a96f129199f",
+      "delivery": "home",
+      "address": "85 outer bypass road, Sonadanga Khulna",
+      "position": {
+        "latitude": 23.7862912,
+        "longitude": 90.4134656
+      },
+      "estimated_delivery_hours": 96,
+      "totalDistanceInKm": 23.3,
+      "totalCost": 6804.2
+    }
+  ]
+}

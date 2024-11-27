@@ -1,0 +1,31 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": [
+    {
+      "totalDistance": 6.23,
+      "totalCost": 435,
+      "firstKMCost": 100,
+      "restOfTheKMCOst": {
+        "from": 1,
+        "to": 8,
+        "fare": 45,
+        "_id": "656eb6959d009304be49544e"
+      },
+      "destinationRelayPoint": {
+        "_id": "653a2df332077134ed1576f5",
+        "name": "Sokode",
+        "address": "X4MP+QWX, Sokode, Togo",
+        "location": {
+          "latitude": 8.983528317744277,
+          "longitude": 1.1364257111903875
+        },
+        "charge": 100,
+        "estimated_day": 1,
+        "active": true,
+        "createdAt": "2023-10-26T09:14:27.653Z",
+        "updatedAt": "2023-12-11T09:47:22.181Z"
+      }
+    }
+  ]
+}

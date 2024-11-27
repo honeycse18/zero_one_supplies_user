@@ -1,0 +1,16 @@
+{
+    "store": {
+        "totalRating": 56.5,
+        "name": "My store",
+        "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/logo.png",
+        "category": {
+            "_id": "645aa77b21013a7e484ee814",
+            "name": "Electronic"
+        },
+        "_id": "646ef58f480bea6c4415316a",
+        "seller_reviews": 14,
+        "positiveSellerReview": 81,
+        "avg_rating": 4.04,
+        "type": "Best Seller"
+    }
+}

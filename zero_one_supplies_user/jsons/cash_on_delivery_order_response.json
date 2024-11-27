@@ -1,0 +1,18 @@
+{
+  "error": false,
+  "msg": "Cash on delivery order Successful",
+  "data": [
+    {
+      "_id": "648eaaf11aae46ac16ad64d5",
+      "user": "646b2d4999d44af33c686ddf",
+      "order": "648ea964733ba7e32a585128",
+      "amount": 1728,
+      "payment_method": "cash_on_delivery",
+      "status": "pending",
+      "tran_id": "fc24fd091687071472684",
+      "tran_date": "2023-06-18T06:55:55.146Z",
+      "createdAt": "2023-06-18T06:57:53.058Z",
+      "updatedAt": "2023-06-18T06:57:53.058Z"
+    }
+  ]
+}

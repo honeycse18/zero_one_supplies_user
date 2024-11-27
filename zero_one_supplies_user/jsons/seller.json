@@ -1,0 +1,107 @@
+{
+    "error": false,
+    "msg": "Successfully get stores",
+    "data": {
+        "docs": [
+            {
+                "_id": "6458961950b9ce1f9ed218a3",
+                "name": "Vendor Store",
+                "category": {
+                    "name": "Sport"
+                },
+                "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6458961950b9ce1f9ed218a3/logo.webp",
+                "products": 2
+            },
+            {
+                "_id": "645f8312325d0357cedc007e",
+                "name": "asdsad",
+                "category": {
+                    "name": "Sport"
+                },
+                "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/645f8311325d0357cedc007d/logo.png",
+                "products": 0
+            },
+            {
+                "_id": "6461b7461abf936c7ea4537b",
+                "name": "aaa",
+                "category": {
+                    "name": "Sport"
+                },
+                "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6461b7451abf936c7ea4537a/logo.png",
+                "products": 0
+            },
+            {
+                "_id": "6461dfc212672a538c1cb6fa",
+                "name": "Aaa",
+                "category": {
+                    "name": "Electronic"
+                },
+                "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6461dfc112672a538c1cb6f9/logo.png",
+                "products": 0
+            },
+            {
+                "_id": "646ef58f480bea6c4415316a",
+                "name": "My store",
+                "category": {
+                    "name": "Electronic"
+                },
+                "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/logo.png",
+                "products": 23
+            },
+            {
+                "_id": "646f43aa3704d8ca4d463331",
+                "name": "Sabbir Ahmed",
+                "category": {
+                    "name": "Electronic"
+                },
+                "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646f43aa3704d8ca4d463331/logo.jpg",
+                "products": 0
+            },
+            {
+                "_id": "647071340d13213b87ed8fe3",
+                "name": "01supplies",
+                "category": {
+                    "name": "Electronic"
+                },
+                "logo": "https://i.ibb.co/D1djGHC/logo.png",
+                "products": 0
+            },
+            {
+                "_id": "64732ef7327d07df254b0146",
+                "name": "01supplies",
+                "category": {
+                    "name": "Electronic"
+                },
+                "logo": "https://i.ibb.co/D1djGHC/logo.png",
+                "products": 0
+            },
+            {
+                "_id": "6476a8abcee8bf63b040995a",
+                "name": "Seller Shop",
+                "category": {
+                    "name": "Electronic"
+                },
+                "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476a8aacee8bf63b0409959/logo.png",
+                "products": 2
+            },
+            {
+                "_id": "647d3a7794314675b12b446d",
+                "name": "test store",
+                "category": {
+                    "name": "Sport"
+                },
+                "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/647d3a7694314675b12b446c/logo.jpg",
+                "products": 0
+            }
+        ],
+        "totalDocs": 10,
+        "limit": 12,
+        "page": 1,
+        "totalPages": 1,
+        "pagingCounter": 1,
+        "hasPrevPage": false,
+        "hasNextPage": false,
+        "prevPage": null,
+        "nextPage": null
+    }
+}

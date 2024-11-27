@@ -1,0 +1,24 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": {
+    "docs": [
+      {
+        "_id": "64fb6a554bcf8092f4118744",
+        "name": "Acheter à Lomé de façon sûre",
+        "active": true,
+        "createdAt": "2023-09-08T18:39:17.617Z",
+        "updatedAt": "2023-09-08T18:39:17.617Z"
+      }
+    ],
+    "totalDocs": 8,
+    "limit": 10,
+    "page": 1,
+    "totalPages": 1,
+    "pagingCounter": 1,
+    "hasPrevPage": false,
+    "hasNextPage": false,
+    "prevPage": null,
+    "nextPage": null
+  }
+}

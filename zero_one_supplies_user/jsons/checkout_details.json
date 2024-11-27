@@ -1,0 +1,94 @@
+{
+    "error": false,
+    "msg": "Data retrieved successfully",
+    "data": {
+        "_id": "65b9e57e944f31651f76f866",
+        "user": "646b2d4999d44af33c686ddf",
+        "cartData": {
+            "totalCarts": {
+                "_id": null,
+                "carts": 2
+            },
+            "carts": [
+                {
+                    "total": 537.2,
+                    "products": [
+                        {
+                            "cart_id": "65b95c11944f31651f76e816",
+                            "product": "65840b2cf7863c8a27b0099c",
+                            "attributes": [],
+                            "extra_price": 0,
+                            "quantity": 2,
+                            "price": 206,
+                            "subtotal": 412,
+                            "store": "651a72a8e3862bec248e0604",
+                            "name": "asdfgh",
+                            "image": "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/65840b2cf7863c8a27b0099c/product.webp",
+                            "unit": "pcs",
+                            "categories": {
+                                "_id": "64294e648940c23fdb2ce8f4",
+                                "name": "Electronics"
+                            },
+                            "isAuction": false,
+                            "product_location": {
+                                "type": "store",
+                                "store": {
+                                    "_id": "651a72a8e3862bec248e0604",
+                                    "name": "My Store",
+                                    "address": "RGFQ+FX9, Sonadanga, Khulna Division, 9100, Bangladesh",
+                                    "location": {
+                                        "latitude": 22.82367857975883,
+                                        "longitude": 89.53988816589117
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "cart_id": "65b95c1f944f31651f76e840",
+                            "product": "659246ecb0a14443e685930e",
+                            "attributes": [],
+                            "extra_price": 0,
+                            "quantity": 1,
+                            "price": 220,
+                            "subtotal": 220,
+                            "store": "651a72a8e3862bec248e0604",
+                            "name": "product",
+                            "image": "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/659246ebb0a14443e685930c/alexander-mils-TdVGcGkb6C8-unsplash.jpg",
+                            "unit": "m3",
+                            "categories": {
+                                "_id": "645b6b0a3880fddaf6330e0e",
+                                "name": "Beauté"
+                            },
+                            "isAuction": false,
+                            "product_location": {
+                                "type": "store",
+                                "store": {
+                                    "_id": "651a72a8e3862bec248e0604"
+                                }
+                            }
+                        }
+                    ],
+                    "store": {
+                        "_id": "651a72a8e3862bec248e0604",
+                        "name": "My Store"
+                    },
+                    "couponInfo": {
+                        "current_subtotal": 537.2,
+                        "save_money": 94.8,
+                        "coupon_value": "15%",
+                        "coupon_code": "my",
+                        "msg": "Coupon 15% applied successfully"
+                    }
+                }
+            ],
+            "netAmount": 632,
+            "company_commission": "5%",
+            "charged_amount": 31.6,
+            "total_save_money": 94.8,
+            "total": 569
+        },
+        "createdAt": "2024-01-31T06:15:26.434Z",
+        "updatedAt": "2024-01-31T06:15:26.434Z",
+        "__v": 0
+    }
+}

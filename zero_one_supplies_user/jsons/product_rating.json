@@ -1,0 +1,16 @@
+{
+    "product_rating_wise_user": [
+    {
+        "_id": {
+            "rating": 3
+        },
+        "count": 2
+    },
+    {
+        "_id": {
+            "rating": 4
+        },
+        "count": 2
+    }
+]
+}

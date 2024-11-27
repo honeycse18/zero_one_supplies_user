@@ -1,0 +1,127 @@
+{
+    "error": false,
+    "data": [
+        {
+            "_id": "646dacbc99d44af33c687d28",
+            "user": "646b2d4999d44af33c686ddf",
+            "name": "Talha",
+            "phone": "123",
+            "province": "Khulna",
+            "city": "Khulna",
+            "area": "Khulna",
+            "address": "Khulna",
+            "landmark": "Khulna",
+            "delivery": "home",
+            "default_shipping_address": true,
+            "default_billing_address": false,
+            "createdAt": "2023-05-24T06:20:44.140Z",
+            "updatedAt": "2023-06-06T15:41:45.521Z",
+            "__v": 0,
+            "is_primary": false,
+            "country": "American Samoa",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    89.57656497209369,
+                    22.800971106193558
+                ]
+            },
+            "position": {
+                "latitude": 22.800971106193558,
+                "longitude": 89.57656497209369
+            }
+        },
+        {
+            "_id": "646dda3b6531490f4ce7924e",
+            "user": "646b2d4999d44af33c686ddf",
+            "name": "Ahad",
+            "phone": "11",
+            "province": "sadsa",
+            "city": "asdasd",
+            "area": "sadasd",
+            "address": "ssdsdf",
+            "landmark": "sdsa",
+            "delivery": "office",
+            "default_shipping_address": true,
+            "default_billing_address": false,
+            "country": "Andorra",
+            "is_primary": false,
+            "createdAt": "2023-05-24T09:34:51.115Z",
+            "updatedAt": "2023-06-06T05:35:45.181Z",
+            "__v": 0,
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    89.55679819218751,
+                    22.813134016308517
+                ]
+            },
+            "position": {
+                "latitude": 22.813134016308517,
+                "longitude": 89.55679819218751
+            }
+        },
+        {
+            "_id": "647ec2fbe2e191b128204d7a",
+            "user": "646b2d4999d44af33c686ddf",
+            "name": "sdfsdf",
+            "phone": "sdfsdf",
+            "province": "sdfsdf",
+            "city": "sdfsdf",
+            "area": "sdfsdf",
+            "address": "sdfsdf",
+            "landmark": "sdfsdf",
+            "delivery": "office",
+            "default_shipping_address": true,
+            "default_billing_address": true,
+            "country": "Albania",
+            "is_primary": true,
+            "zip_code": "sdfsdf",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    89.53385353088379,
+                    22.802215412295773
+                ]
+            },
+            "position": {
+                "latitude": 22.802215412295773,
+                "longitude": 89.53385353088379
+            },
+            "createdAt": "2023-06-06T05:24:11.502Z",
+            "updatedAt": "2023-06-06T05:24:11.502Z",
+            "__v": 0
+        },
+        {
+            "_id": "647f53b9de18d0bd2c1b66bc",
+            "user": "646b2d4999d44af33c686ddf",
+            "name": "aaaaaaa",
+            "phone": "01725151578",
+            "province": "aaaaaaa",
+            "city": "Khulna",
+            "area": "aaaaaaa",
+            "address": "aaaaa",
+            "landmark": "aaaaaaaaaa",
+            "delivery": "home",
+            "default_shipping_address": false,
+            "default_billing_address": false,
+            "country": "Bangladesh",
+            "is_primary": true,
+            "zip_code": "1900",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    89.57671091191408,
+                    22.78362777658395
+                ]
+            },
+            "position": {
+                "latitude": 22.78362777658395,
+                "longitude": 89.57671091191408
+            },
+            "createdAt": "2023-06-06T15:41:45.611Z",
+            "updatedAt": "2023-06-06T15:41:45.611Z",
+            "__v": 0
+        }
+    ]
+}

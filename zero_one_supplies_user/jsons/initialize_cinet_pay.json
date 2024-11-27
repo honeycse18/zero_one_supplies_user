@@ -1,0 +1,14 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": {
+    "code": 201,
+    "message": "CREATED",
+    "description": "description",
+    "data": {
+      "payment_token": "203020d0sfdfsf",
+      "payment_url": "https://checkout.cinetpay.com/payment/3f3lfjlkslkf"
+    },
+    "api_response_id": "23203232.32"
+  }
+}

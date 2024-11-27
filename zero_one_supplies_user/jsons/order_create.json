@@ -1,0 +1,130 @@
+{
+    "error": false,
+    "msg": "Your order successfully placed",
+    "data": [
+        {
+            "user": "646b2d4999d44af33c686ddf",
+            "totalProducts": 2,
+            "orders": [
+                {
+                    "total": 566.1,
+                    "products": [
+                        {
+                            "cart_id": "65ba84fb5a6c293216808a54",
+                            "product": "65840b2cf7863c8a27b0099c",
+                            "attributes": [
+                                {
+                                    "key": "couleur",
+                                    "option": {
+                                      "label": "Violet",
+                                      "value": "#7D3C98",
+                                      "price": 0,
+                                      "_id": "64f1f181ff5c54cca874a6dc"
+                                    }
+                                  }
+                            ],
+                            "extra_price": 0,
+                            "quantity": 1,
+                            "price": 206,
+                            "subtotal": 206,
+                            "store": "651a72a8e3862bec248e0604",
+                            "name": "asdfgh",
+                            "image": "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/65840b2cf7863c8a27b0099c/product.webp",
+                            "unit": "pcs",
+                            "categories": {
+                                "_id": "64294e648940c23fdb2ce8f4",
+                                "name": "Electronics"
+                            },
+                            "isAuction": false,
+                            "product_location": {
+                                "type": "store",
+                                "store": {
+                                    "_id": "651a72a8e3862bec248e0604",
+                                    "name": "My Store",
+                                    "address": "RGFQ+FX9, Sonadanga, Khulna Division, 9100, Bangladesh",
+                                    "location": {
+                                        "latitude": 22.82367857975883,
+                                        "longitude": 89.53988816589117
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "cart_id": "65ba85075a6c293216808a6e",
+                            "product": "659246ecb0a14443e685930e",
+                            "attributes": [
+                                {
+                                    "key": "stockage",
+                                    "option": {
+                                        "label": "4 GB",
+                                        "value": "",
+                                        "price": 10,
+                                        "_id": "65b4e52ffc8e0a8613dd4065"
+                                    }
+                                }
+                            ],
+                            "extra_price": 10,
+                            "quantity": 2,
+                            "price": 230,
+                            "subtotal": 460,
+                            "store": "651a72a8e3862bec248e0604",
+                            "name": "product",
+                            "image": "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/659246ebb0a14443e685930c/alexander-mils-TdVGcGkb6C8-unsplash.jpg",
+                            "unit": "m3",
+                            "categories": {
+                                "_id": "645b6b0a3880fddaf6330e0e",
+                                "name": "Beauté"
+                            },
+                            "isAuction": false,
+                            "product_location": {
+                                "type": "store",
+                                "store": {
+                                    "_id": "651a72a8e3862bec248e0604"
+                                }
+                            }
+                        }
+                    ],
+                    "store": {
+                        "_id": "651a72a8e3862bec248e0604",
+                        "name": "My Store"
+                    },
+                    "couponInfo": {
+                        "current_subtotal": 566.1,
+                        "save_money": 99.9,
+                        "coupon_value": "15%",
+                        "coupon_code": "my",
+                        "msg": "Coupon 15% applied successfully"
+                    }
+                }
+            ],
+            "netAmount": 666,
+            "company_commission": "5%",
+            "charged_amount": 33.3,
+            "total_save_money": 99.9,
+            "total": 7404,
+            "product_receive_time": "morning_shift",
+            "estimated_delivery_hours": 96,
+            "delivery": {
+                "type": "home_delivery",
+                "address": {
+                    "_id": "6534d41dcc6e7a96f129199f",
+                    "address": "85 outer bypass road, Sonadanga Khulna",
+                    "delivery": "home",
+                    "position": {
+                        "latitude": 23.7862912,
+                        "longitude": 90.4134656
+                    },
+                    "totalCost": 6804,
+                    "totalDistanceInKm": null
+                },
+                "_id": "65ba85345a6c293216808b4c"
+            },
+            "payment_status": "pending",
+            "status": "pending",
+            "_id": "65ba85345a6c293216808b4b",
+            "createdAt": "2024-01-31T17:36:52.224Z",
+            "updatedAt": "2024-01-31T17:36:52.224Z",
+            "ref": 170
+        }
+    ]
+}

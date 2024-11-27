@@ -1,0 +1,193 @@
+{
+  "error": false,
+  "data": {
+    "_id": "64ee18b3708914b598366f5f",
+    "store": {
+      "_id": "6476a8abcee8bf63b040995a",
+      "name": "Seller Shop",
+      "totalRating": 5,
+      "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476a8aacee8bf63b0409959/logo.png",
+      "category": {
+        "_id": "645aa77b21013a7e484ee814",
+        "name": "Electronic"
+      },
+      "seller_reviews": 1,
+      "positiveSellerReview": 100,
+      "avg_rating": 5,
+      "type": "Best Seller"
+    },
+    "name": "Chaussettes en cotton",
+    "model": "Chaussettes",
+    "brand": {
+      "_id": "64ebde5faa0ceaca9096e574",
+      "name": "Best Brand"
+    },
+    "categories": [
+      {
+        "_id": "645b6606cba4ab8a9f200add",
+        "name": "Mode"
+      }
+    ],
+    "subcategories": [
+      {
+        "_id": "646a40b099d44af33c686bae",
+        "name": "Homme"
+      }
+    ],
+    "unit": "pcs",
+    "quantity": {
+      "unit_quantity": 1,
+      "stock_quantity": 500,
+      "min_purchase_quantity": 1,
+      "stock_alert_quantity": 50
+    },
+    "price": 850,
+    "product_image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64ee1864708914b598366f57/image.jpg",
+    "gallery_images": [
+      "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64ee187a708914b598366f5b/image.jpg",
+      "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64ee187f708914b598366f5d/image.jpg"
+    ],
+    "specifications": [
+      {
+        "key": "Weight",
+        "value": "0.400 kg",
+        "_id": "64f05020150c659dddb20701"
+      },
+      {
+        "key": "Color",
+        "value": "Pink",
+        "_id": "64f05020150c659dddb20702"
+      }
+    ],
+    "stock_available": false,
+    "stock_visibility": true,
+    "flash_deal": false,
+    "new_arrival": true,
+    "is_status": true,
+    "variants": [],
+    "createdAt": "2023-08-29T16:11:31.552Z",
+    "updatedAt": "2023-09-01T15:46:40.443Z",
+    "attribute": [
+      {
+        "key": "couleur",
+        "options": [
+          {
+            "label": "Rouge",
+            "value": "#E74C3C",
+            "price": 0,
+            "_id": "64f20760ff5c54cca8751180"
+          },
+          {
+            "label": "Jaune",
+            "value": "#9B59B6",
+            "price": 0,
+            "_id": "64f20760ff5c54cca8751181"
+          },
+          {
+            "label": "Orange",
+            "value": "#148F77",
+            "price": 10,
+            "_id": "64f20760ff5c54cca8751182"
+          }
+        ],
+        "_id": "64f20760ff5c54cca875117f"
+      },
+      {
+        "key": "pointure",
+        "options": [
+          {
+            "label": "EU 31",
+            "price": 0,
+            "_id": "64f20760ff5c54cca8751184"
+          },
+          {
+            "label": "EU 34",
+            "price": 0,
+            "_id": "64f20760ff5c54cca8751185"
+          },
+          {
+            "label": "EU 42",
+            "price": 10,
+            "_id": "64f20760ff5c54cca8751186"
+          }
+        ],
+        "_id": "64f20760ff5c54cca8751183"
+      },
+      {
+        "key": "size",
+        "options": [
+          {
+            "label": "L",
+            "price": 0,
+            "_id": "64f20760ff5c54cca8751188"
+          },
+          {
+            "label": "M",
+            "price": 0,
+            "_id": "64f20760ff5c54cca8751189"
+          },
+          {
+            "label": "X",
+            "price": 0,
+            "_id": "64f20760ff5c54cca875118a"
+          },
+          {
+            "label": "XL",
+            "price": 0,
+            "_id": "64f20760ff5c54cca875118b"
+          },
+          {
+            "label": "XXL",
+            "price": 10,
+            "_id": "64f20760ff5c54cca875118c"
+          }
+        ],
+        "_id": "64f20760ff5c54cca8751187"
+      }
+    ],
+    "related_products": [
+      {
+        "_id": "6464599ae862941f4edbbae4",
+        "name": "Long sleeve Casual shirt for men",
+        "price": 399,
+        "new_arrival": true,
+        "createdAt": "2023-05-17T04:35:38.056Z",
+        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6469a288ca31b8463dd626e8/product.webp",
+        "rating": 0,
+        "discount": false,
+        "discount_value": {},
+        "current_price": 399,
+        "isFavorite": true
+      },
+      {
+        "_id": "64633afb7ffad4e41f0e676e",
+        "name": "Men’s full sleeve Jaket ",
+        "price": 500,
+        "new_arrival": true,
+        "createdAt": "2023-05-16T08:12:43.046Z",
+        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64633af97ffad4e41f0e6768/product.png",
+        "rating": 0,
+        "discount": false,
+        "discount_value": {},
+        "current_price": 500,
+        "isFavorite": false
+      }
+    ],
+    "product_rating_wise_user": [],
+    "total_review": 0,
+    "rating": 0,
+    "discount": false,
+    "discount_value": {},
+    "current_price": 850,
+    "isFavorite": false,
+    "description": "Chaussettes en Cotton pour homme ",
+    "delivery_info": {
+      "delivery": 1,
+      "shipping": 2,
+      "product_return": {
+        "days": 2,
+        "msg": "Retour Accepté Si non conforme "
+      }
+    }
+  }
+}

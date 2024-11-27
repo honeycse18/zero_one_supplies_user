@@ -1,0 +1,23 @@
+{
+  "error": false,
+  "msg": "success",
+  "data": {
+    "distance": {
+      "text": "4.1 km",
+      "value": 4069
+    },
+    "duration": {
+      "text": "14 mins",
+      "value": 858
+    },
+    "status": "OK",
+    "kmDistance": 4.07,
+    "distanceFare": 4.07,
+    "myFare": {
+      "from": 0,
+      "to": 5,
+      "fare": 1,
+      "_id": "647ecc2384f8589a2a9f571a"
+    }
+  }
+}

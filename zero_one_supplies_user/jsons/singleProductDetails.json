@@ -1,0 +1,97 @@
+{
+    "error": false,
+    "data": {
+        "_id": "646a61d999d44af33c686d0a",
+        "name": "Sneakers fashion all-match thick-soled striped",
+        "model": "Shoe",
+        "brand": {
+            "_id": "646a5aa999d44af33c686c93",
+            "name": "EA Sport"
+        },
+        "categories": [
+            {
+                "_id": "6468a50eb8429907c6fe0f49",
+                "name": "Shoes"
+            }
+        ],
+        "subcategories": [],
+        "unit": "EA Sport",
+        "quantity": {
+            "unit_quantity": 200,
+            "stock_quantity": 200,
+            "min_purchase_quantity": 200,
+            "stock_alert_quantity": 20
+        },
+        "price": 780,
+        "product_image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a61d699d44af33c686d00/product.jpg",
+        "gallery_images": [
+            "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646f42f23704d8ca4d463298/gallery.jpg",
+            "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646f42f33704d8ca4d46329a/gallery.jpg"
+        ],
+        "attributes": {
+            "name": "color",
+            "values": [
+                "red",
+                "green"
+            ]
+        },
+        "stock_available": true,
+        "stock_visibility": true,
+        "flash_deal": true,
+        "new_arrival": true,
+        "is_status": true,
+        "specifications": [
+            {
+                "key": "Weight",
+                "value": "1 kg",
+                "_id": "646b42c401f7500aa8206eb2"
+            },
+            {
+                "key": "Color",
+                "value": "Pink",
+                "_id": "646b42c401f7500aa8206eb3"
+            }
+        ],
+        "variants": [],
+        "createdAt": "2023-05-21T18:24:25.886Z",
+        "updatedAt": "2023-05-25T11:13:55.908Z",
+        "related_products": [
+            {
+                "_id": "646a61d999d44af33c686d0a",
+                "name": "Sneakers fashion all-match thick-soled striped",
+                "price": 780,
+                "new_arrival": true,
+                "createdAt": "2023-05-21T18:24:25.886Z",
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a61d699d44af33c686d00/product.jpg",
+                "rating": 0,
+                "discount": true
+            },
+            {
+                "_id": "646a60bf99d44af33c686cf4",
+                "name": "Lotto Casual Lifestyle Shoe for Men",
+                "price": 500,
+                "new_arrival": true,
+                "createdAt": "2023-05-21T18:19:43.411Z",
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a60bb99d44af33c686cec/product.webp",
+                "rating": 0,
+                "discount": false
+            }
+        ],
+        "discount": true,
+        "discount_value": {
+            "type": "percentage",
+            "amount": 10,
+            "start_date": "2023-05-21T18:00:00.000Z",
+            "end_date": "2023-05-29T18:00:00.000Z"
+        },
+        "description": "<h2 style=\"text-align:start;\"><span style=\"color: rgb(33,33,33);background-color: rgb(250,250,250);font-size: 16px;font-family: Roboto-Medium;\">Prduct details of IELGY Sneakers fashion all-match thick-soled striped front lace-up women's white shoes</span></h2>\n",
+        "delivery_info": {
+            "delivery": 12,
+            "shipping": 100,
+            "product_return": {
+                "days": 10,
+                "msg": "Without Any Damage"
+            }
+        }
+    }
+}

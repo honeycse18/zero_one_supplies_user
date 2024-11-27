@@ -1,0 +1,22 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": [
+    {
+      "_id": "65744111c40b202349154866",
+      "delivery": "home",
+      "address": "246V+FX Sokode, Togo",
+      "delivery_charge": {
+        "totalDistance": 9.98,
+        "totalCost": 649,
+        "firstKMCost": 200,
+        "restOfTheKMCOst": {
+          "from": 8,
+          "to": 15,
+          "fare": 50,
+          "_id": "656eb6959d009304be49544d"
+        }
+      }
+    }
+  ]
+}

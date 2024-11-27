@@ -1,0 +1,51 @@
+{
+  "error": false,
+  "msg": "All Cart data",
+  "data": {
+    "numberOfCartItems": 5,
+    "cart": {
+      "products": [
+        {
+          "cart_id": "64f376b473e2b70c17a43824",
+          "product": "646a4b7799d44af33c686c11",
+          "attributes": [
+            {
+              "key": "couleur",
+              "option": {
+                "label": "Violet",
+                "value": "#7D3C98",
+                "price": 0,
+                "_id": "64f1f181ff5c54cca874a6dc"
+              }
+            },
+            {
+              "key": "size",
+              "option": {
+                "label": "X",
+                "price": 5,
+                "_id": "64f1f181ff5c54cca874a6df"
+              }
+            }
+          ],
+          "extra_price": 5,
+          "quantity": 4,
+          "price": 504,
+          "subtotal": 2016,
+          "store": "646ef58f480bea6c4415316a",
+          "name": "New Long Sleeve Casual Shirt for Men",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a4b7699d44af33c686c07/product.jpg",
+          "unit": "unit1",
+          "categories": {
+            "_id": "645b6606cba4ab8a9f200add",
+            "name": "Mode"
+          }
+        }
+      ],
+      "user": "646b2d4999d44af33c686ddf",
+      "net_amount": 2016
+    },
+    "total": 2116.8,
+    "company_commission": "5%",
+    "charged_amount": 100.8
+  }
+}

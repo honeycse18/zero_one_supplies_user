@@ -1,0 +1,24 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": [
+    {
+      "_id": "646dacbc99d44af33c687d28",
+      "user": "646b2d4999d44af33c686ddf",
+      "name": "Talha",
+      "phone": "123",
+      "province": "Khulna",
+      "city": "Khulna",
+      "area": "Khulna",
+      "address": "Khulna",
+      "landmark": "Khulna",
+      "delivery": "home",
+      "default_shipping_address": true,
+      "default_billing_address": false,
+      "createdAt": "2023-05-24T06:20:44.140Z",
+      "updatedAt": "2023-05-24T09:41:35.342Z",
+      "is_primary": true,
+      "country": "American Samoa"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "error": false,
+  "msg": "Successfully gets settings",
+  "data": {
+    "company_vat": {
+      "type": "percentage",
+      "value": 10
+    },
+    "description": "A Multivendor ecommerce system",
+    "email": "zero.one.supplies@gmail.com",
+    "logo": "https://i.ibb.co/D1djGHC/logo.png",
+    "name": "01 Supplies",
+    "currency_code": "USD",
+    "currency_symbol": "$",
+    "address": "String",
+    "payment_methods": [
+      {
+        "name": "String",
+        "image": "String",
+        "credentials": {
+          "publishable_key": "String",
+          "secret_key": "String",
+          "base_url": "String",
+          "active": true
+        },
+        "_id": "646f13a9abd370d6816ac3e8"
+      }
+    ],
+    "phone": "String",
+    "social_media_link": [
+      {
+        "icon": "AiFillLinkedin",
+        "name": "linkedin",
+        "link": "www.linkedin.com",
+        "_id": "646f13a9abd370d6816ac3e9"
+      },
+      {
+        "icon": "AiFillAppstore",
+        "name": "microsoft",
+        "link": "www.microsoft.com",
+        "_id": "646f57d5f722ceed35c8c328"
+      },
+      {
+        "icon": "AiFillTwitterCircle",
+        "name": "twitter",
+        "link": "www.twitter.com",
+        "_id": "647247791b514a8dc84887c5"
+      },
+      {
+        "icon": "AiFillYoutube",
+        "name": "youtube",
+        "link": "www.youtube.com",
+        "_id": "647247791b514a8dc84887c6"
+      }
+    ],
+    "delivery_charge": [
+      {
+        "key": "Inside of Khulna",
+        "value": 50,
+        "_id": "6472dbabd76594fa6d2ee334"
+      },
+      {
+        "key": "Outside of Khulna",
+        "value": 140,
+        "_id": "6472dbabd76594fa6d2ee335"
+      }
+    ],
+    "delivery_area": [],
+    "pickup_area": []
+  }
+}

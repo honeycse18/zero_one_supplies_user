@@ -1,0 +1,974 @@
+{
+    "error": false,
+    "data": {
+        "docs": [
+            {
+                "_id": "6485ffb40c0fb95d61cd5d10",
+                "order_number": "01S-86",
+                "date": "2023-06-11",
+                "user": "646b2d4999d44af33c686ddf",
+                "products": [
+                    {
+                        "product": "6476bf03e86690b58768998f",
+                        "store": {
+                            "_id": "6476a8abcee8bf63b040995a",
+                            "name": "Seller Shop",
+                            "location": "Khulna",
+                            "description": "abc.......",
+                            "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476a8aacee8bf63b0409959/logo.png",
+                            "vendor": {
+                                "_id": "6476a869cee8bf63b0409950",
+                                "first_name": "Sabbir",
+                                "last_name": "Ahmmed",
+                                "email": "seller@gmail.com",
+                                "phone": "01725151578"
+                            }
+                        },
+                        "name": "fsdfsdf",
+                        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476bf01e86690b587689987/product.jpg",
+                        "unit": "kg",
+                        "price": 1000,
+                        "quantity": 1,
+                        "subtotal": 1000,
+                        "_id": "6485ffb40c0fb95d61cd5d11"
+                    },
+                    {
+                        "product": "646a64a899d44af33c686d32",
+                        "store": {
+                            "_id": "646ef58f480bea6c4415316a",
+                            "name": "My store",
+                            "location": "Khulna, Bangladesh",
+                            "description": "aa",
+                            "vendor": {
+                                "_id": "642922e96fbdc0bd7a7c1e64",
+                                "first_name": "01 ",
+                                "last_name": "Supplies",
+                                "email": "admin@gmail.com",
+                                "phone": "+8801725151577"
+                            },
+                            "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/logo.png"
+                        },
+                        "name": "Bluetooth Earphone with Power Case",
+                        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a64a799d44af33c686d2a/product.jpg",
+                        "unit": "EA Sport",
+                        "price": 500,
+                        "quantity": 2,
+                        "subtotal": 1000,
+                        "_id": "6485ffb40c0fb95d61cd5d12"
+                    }
+                ],
+                "net_price": 2000,
+                "subtotal": 1800,
+                "discount": 200,
+                "discount_coupon": {
+                    "code": "2024",
+                    "value": 10,
+                    "discount_type": "percentage"
+                },
+                "vat": 200,
+                "vat_applied": {
+                    "type": "percentage",
+                    "value": 10
+                },
+                "delivery": {
+                    "fare": null
+                },
+                "total": 2030,
+                "payment_status": "completed",
+                "payment_method": "stripe",
+                "payment": "6485ffe60c0fb95d61cd5f67",
+                "status": "delivered",
+                "createdAt": "2023-06-11T17:09:08.606Z",
+                "updatedAt": "2023-06-11T17:16:44.208Z",
+                "estimated_delivery_day": "2023-06-18T00:00:00.000Z",
+                "received_time": "morning_shift",
+                "cus_address": null,
+                "pickup_station": {
+                    "_id": "647d31d676427a3893f39732",
+                    "name": "khulna pickup point",
+                    "address": "Sonadanga, khulna",
+                    "charged": 30,
+                    "pickup_location": {
+                        "latitude": 22.8031599003108,
+                        "longitude": 89.53466732171763
+                    }
+                }
+            },
+            {
+                "_id": "6485ff440c0fb95d61cd5c2e",
+                "order_number": "01S-85",
+                "date": "2023-06-11",
+                "user": "646b2d4999d44af33c686ddf",
+                "products": [
+                    {
+                        "product": "6476bf03e86690b58768998f",
+                        "store": {
+                            "_id": "6476a8abcee8bf63b040995a",
+                            "name": "Seller Shop",
+                            "location": "Khulna",
+                            "description": "abc.......",
+                            "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476a8aacee8bf63b0409959/logo.png",
+                            "vendor": {
+                                "_id": "6476a869cee8bf63b0409950",
+                                "first_name": "Sabbir",
+                                "last_name": "Ahmmed",
+                                "email": "seller@gmail.com",
+                                "phone": "01725151578"
+                            }
+                        },
+                        "name": "fsdfsdf",
+                        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476bf01e86690b587689987/product.jpg",
+                        "unit": "kg",
+                        "price": 1000,
+                        "quantity": 1,
+                        "subtotal": 1000,
+                        "_id": "6485ff440c0fb95d61cd5c2f"
+                    }
+                ],
+                "net_price": 1000,
+                "subtotal": 1000,
+                "discount": 0,
+                "discount_coupon": {},
+                "vat": 100,
+                "vat_applied": {
+                    "type": "percentage",
+                    "value": 10
+                },
+                "delivery": {
+                    "distance": 4.67,
+                    "per_km_fare": 1,
+                    "fare": 4.67
+                },
+                "total": 1134.67,
+                "payment_status": "pending",
+                "payment_method": null,
+                "payment": null,
+                "status": "pending",
+                "createdAt": "2023-06-11T17:07:16.166Z",
+                "updatedAt": "2023-06-11T17:07:16.166Z",
+                "estimated_delivery_day": "2023-06-18T00:00:00.000Z",
+                "received_time": "any_time",
+                "cus_address": {
+                    "delivery_type": "office",
+                    "address_book": {
+                        "_id": "646dda3b6531490f4ce7924e",
+                        "user": "646b2d4999d44af33c686ddf",
+                        "name": "Ahad",
+                        "phone": "+8801475896",
+                        "province": "Dhaka",
+                        "city": "Dhaka",
+                        "area": "Motijhil",
+                        "address": "2/700 Khan Bahadur Road",
+                        "landmark": "Gulistan",
+                        "delivery": "office",
+                        "default_shipping_address": true,
+                        "default_billing_address": true,
+                        "country": "Bangladesh",
+                        "is_primary": false,
+                        "createdAt": "2023-05-24T09:34:51.115Z",
+                        "updatedAt": "2023-06-11T05:32:44.774Z",
+                        "__v": 0,
+                        "location": {
+                            "type": "Point",
+                            "coordinates": [
+                                89.55679819218751,
+                                22.813134016308517
+                            ]
+                        },
+                        "position": {
+                            "latitude": 22.813134016308517,
+                            "longitude": 89.55679819218751
+                        }
+                    },
+                    "position": {
+                        "latitude": 22.813134016308517,
+                        "longitude": 89.55679819218751
+                    }
+                },
+                "pickup_station": {
+                    "_id": "647d31d676427a3893f39732",
+                    "name": "khulna pickup point",
+                    "address": "Sonadanga, khulna",
+                    "charged": 30,
+                    "pickup_location": {
+                        "latitude": 22.8031599003108,
+                        "longitude": 89.53466732171763
+                    }
+                }
+            },
+            {
+                "_id": "6485ea730c0fb95d61cd3f1f",
+                "order_number": "01S-84",
+                "date": "2023-06-11",
+                "user": "646b2d4999d44af33c686ddf",
+                "products": [
+                    {
+                        "product": "646a5bfe99d44af33c686cb4",
+                        "store": {
+                            "_id": "646ef58f480bea6c4415316a",
+                            "name": "My store",
+                            "location": "Khulna, Bangladesh",
+                            "description": "aa",
+                            "vendor": {
+                                "_id": "642922e96fbdc0bd7a7c1e64",
+                                "first_name": "01 ",
+                                "last_name": "Supplies",
+                                "email": "admin@gmail.com",
+                                "phone": "+8801725151577"
+                            },
+                            "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/logo.png"
+                        },
+                        "name": "Football - Qatar Special Club Ball - Size-5",
+                        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a5bfd99d44af33c686cac/product.jpg",
+                        "unit": "EA Sport",
+                        "price": 980,
+                        "quantity": 1,
+                        "subtotal": 980,
+                        "_id": "6485ea730c0fb95d61cd3f20"
+                    }
+                ],
+                "net_price": 980,
+                "subtotal": 882,
+                "discount": 98,
+                "discount_coupon": {
+                    "code": "2024",
+                    "value": 10,
+                    "discount_type": "percentage"
+                },
+                "vat": 98,
+                "vat_applied": {
+                    "type": "percentage",
+                    "value": 10
+                },
+                "delivery": {
+                    "distance": 4.67,
+                    "per_km_fare": 1,
+                    "fare": 4.67
+                },
+                "total": 1014.67,
+                "payment_status": "completed",
+                "payment_method": "stripe",
+                "payment": "6485ea910c0fb95d61cd3f3a",
+                "status": "confirm",
+                "createdAt": "2023-06-11T15:38:27.614Z",
+                "updatedAt": "2023-06-11T16:02:09.964Z",
+                "estimated_delivery_day": "2023-06-18T00:00:00.000Z",
+                "received_time": "any_time",
+                "cus_address": {
+                    "delivery_type": "office",
+                    "address_book": {
+                        "_id": "646dda3b6531490f4ce7924e",
+                        "user": "646b2d4999d44af33c686ddf",
+                        "name": "Ahad",
+                        "phone": "+8801475896",
+                        "province": "Dhaka",
+                        "city": "Dhaka",
+                        "area": "Motijhil",
+                        "address": "2/700 Khan Bahadur Road",
+                        "landmark": "Gulistan",
+                        "delivery": "office",
+                        "default_shipping_address": true,
+                        "default_billing_address": true,
+                        "country": "Bangladesh",
+                        "is_primary": false,
+                        "createdAt": "2023-05-24T09:34:51.115Z",
+                        "updatedAt": "2023-06-11T05:32:44.774Z",
+                        "__v": 0,
+                        "location": {
+                            "type": "Point",
+                            "coordinates": [
+                                89.55679819218751,
+                                22.813134016308517
+                            ]
+                        },
+                        "position": {
+                            "latitude": 22.813134016308517,
+                            "longitude": 89.55679819218751
+                        }
+                    },
+                    "position": {
+                        "latitude": 22.813134016308517,
+                        "longitude": 89.55679819218751
+                    }
+                },
+                "pickup_station": {
+                    "_id": "647d31d676427a3893f39732",
+                    "name": "khulna pickup point",
+                    "address": "Sonadanga, khulna",
+                    "charged": 30,
+                    "pickup_location": {
+                        "latitude": 22.8031599003108,
+                        "longitude": 89.53466732171763
+                    }
+                }
+            },
+            {
+                "_id": "648580d19e86a421d2ad6b2d",
+                "order_number": "01S-82",
+                "date": "2023-06-11",
+                "user": "646b2d4999d44af33c686ddf",
+                "products": [
+                    {
+                        "product": "646a5cef99d44af33c686cc8",
+                        "store": {
+                            "_id": "646ef58f480bea6c4415316a",
+                            "name": "My store",
+                            "location": "Khulna, Bangladesh",
+                            "description": "aa",
+                            "vendor": {
+                                "_id": "642922e96fbdc0bd7a7c1e64",
+                                "first_name": "01 ",
+                                "last_name": "Supplies",
+                                "email": "admin@gmail.com",
+                                "phone": "+8801725151577"
+                            },
+                            "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/logo.png"
+                        },
+                        "name": "vivo Y21T (4GB/128GB)",
+                        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a5cec99d44af33c686cc0/product.png",
+                        "unit": "unit1",
+                        "price": 12000,
+                        "quantity": 2,
+                        "subtotal": 24000,
+                        "_id": "648580d19e86a421d2ad6b2e"
+                    }
+                ],
+                "net_price": 24000,
+                "subtotal": 21600,
+                "discount": 2400,
+                "discount_coupon": {
+                    "code": "2024",
+                    "value": 10,
+                    "discount_type": "percentage"
+                },
+                "vat": 2400,
+                "vat_applied": {
+                    "type": "percentage",
+                    "value": 10
+                },
+                "delivery": {
+                    "distance": 4.67,
+                    "per_km_fare": 1,
+                    "fare": 4.67
+                },
+                "total": 24034.67,
+                "payment_status": "completed",
+                "payment_method": "stripe",
+                "payment": "648580eb9e86a421d2ad6b48",
+                "status": "on_way",
+                "createdAt": "2023-06-11T08:07:45.626Z",
+                "updatedAt": "2023-06-11T15:52:42.453Z",
+                "estimated_delivery_day": "2023-06-18T00:00:00.000Z",
+                "received_time": "any_time",
+                "cus_address": {
+                    "delivery_type": "office",
+                    "address_book": {
+                        "_id": "646dda3b6531490f4ce7924e",
+                        "user": "646b2d4999d44af33c686ddf",
+                        "name": "Ahad",
+                        "phone": "+8801475896",
+                        "province": "Dhaka",
+                        "city": "Dhaka",
+                        "area": "Motijhil",
+                        "address": "2/700 Khan Bahadur Road",
+                        "landmark": "Gulistan",
+                        "delivery": "office",
+                        "default_shipping_address": true,
+                        "default_billing_address": true,
+                        "country": "Bangladesh",
+                        "is_primary": false,
+                        "createdAt": "2023-05-24T09:34:51.115Z",
+                        "updatedAt": "2023-06-11T05:32:44.774Z",
+                        "__v": 0,
+                        "location": {
+                            "type": "Point",
+                            "coordinates": [
+                                89.55679819218751,
+                                22.813134016308517
+                            ]
+                        },
+                        "position": {
+                            "latitude": 22.813134016308517,
+                            "longitude": 89.55679819218751
+                        }
+                    },
+                    "position": {
+                        "latitude": 22.813134016308517,
+                        "longitude": 89.55679819218751
+                    }
+                },
+                "pickup_station": {
+                    "_id": "647d31d676427a3893f39732",
+                    "name": "khulna pickup point",
+                    "address": "Sonadanga, khulna",
+                    "charged": 30,
+                    "pickup_location": {
+                        "latitude": 22.8031599003108,
+                        "longitude": 89.53466732171763
+                    }
+                }
+            },
+            {
+                "_id": "6485555d0f78e68bced8e848",
+                "order_number": "01S-80",
+                "date": "2023-06-11",
+                "user": "646b2d4999d44af33c686ddf",
+                "products": [
+                    {
+                        "product": "646a64a899d44af33c686d32",
+                        "store": {
+                            "_id": "646ef58f480bea6c4415316a",
+                            "name": "My store",
+                            "location": "Khulna, Bangladesh",
+                            "description": "aa",
+                            "vendor": {
+                                "_id": "642922e96fbdc0bd7a7c1e64",
+                                "first_name": "01 ",
+                                "last_name": "Supplies",
+                                "email": "admin@gmail.com",
+                                "phone": "+8801725151577"
+                            },
+                            "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/logo.png"
+                        },
+                        "name": "Bluetooth Earphone with Power Case",
+                        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a64a799d44af33c686d2a/product.jpg",
+                        "unit": "EA Sport",
+                        "price": 500,
+                        "quantity": 1,
+                        "subtotal": 500,
+                        "_id": "6485555d0f78e68bced8e849"
+                    },
+                    {
+                        "product": "6476bf03e86690b58768998f",
+                        "store": {
+                            "_id": "6476a8abcee8bf63b040995a",
+                            "name": "Seller Shop",
+                            "location": "Khulna",
+                            "description": "abc.......",
+                            "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476a8aacee8bf63b0409959/logo.png",
+                            "vendor": {
+                                "_id": "6476a869cee8bf63b0409950",
+                                "first_name": "Sabbir",
+                                "last_name": "Ahmmed",
+                                "email": "seller@gmail.com",
+                                "phone": "01725151578"
+                            }
+                        },
+                        "name": "fsdfsdf",
+                        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476bf01e86690b587689987/product.jpg",
+                        "unit": "kg",
+                        "price": 1000,
+                        "quantity": 1,
+                        "subtotal": 1000,
+                        "_id": "6485555d0f78e68bced8e84a"
+                    }
+                ],
+                "net_price": 1500,
+                "subtotal": 1350,
+                "discount": 150,
+                "discount_coupon": {
+                    "code": "2024",
+                    "value": 10,
+                    "discount_type": "percentage"
+                },
+                "vat": 150,
+                "vat_applied": {
+                    "type": "percentage",
+                    "value": 10
+                },
+                "delivery": {
+                    "distance": 4.67,
+                    "per_km_fare": 1,
+                    "fare": 4.67
+                },
+                "total": 1534.67,
+                "payment_status": "pending",
+                "payment_method": "cash_on_delivery",
+                "payment": "6485557d0f78e68bced8e86d",
+                "status": "on_way",
+                "createdAt": "2023-06-11T05:02:21.282Z",
+                "updatedAt": "2023-06-11T17:18:16.243Z",
+                "estimated_delivery_day": "2023-06-18T00:00:00.000Z",
+                "received_time": "any_time",
+                "cus_address": {
+                    "delivery_type": "office",
+                    "address_book": {
+                        "_id": "646dda3b6531490f4ce7924e",
+                        "user": "646b2d4999d44af33c686ddf",
+                        "name": "Ahad",
+                        "phone": "+8801475896",
+                        "province": "Dhaka",
+                        "city": "Dhaka",
+                        "area": "Motijhil",
+                        "address": "2/700 Khan Bahadur Road",
+                        "landmark": "Gulistan",
+                        "delivery": "office",
+                        "default_shipping_address": true,
+                        "default_billing_address": true,
+                        "country": "Bangladesh",
+                        "is_primary": false,
+                        "createdAt": "2023-05-24T09:34:51.115Z",
+                        "updatedAt": "2023-06-11T04:59:49.130Z",
+                        "__v": 0,
+                        "location": {
+                            "type": "Point",
+                            "coordinates": [
+                                89.55679819218751,
+                                22.813134016308517
+                            ]
+                        },
+                        "position": {
+                            "latitude": 22.813134016308517,
+                            "longitude": 89.55679819218751
+                        }
+                    },
+                    "position": {
+                        "latitude": 22.813134016308517,
+                        "longitude": 89.55679819218751
+                    }
+                },
+                "pickup_station": {
+                    "_id": "647d31d676427a3893f39732",
+                    "name": "khulna pickup point",
+                    "address": "Sonadanga, khulna",
+                    "charged": 30,
+                    "pickup_location": {
+                        "latitude": 22.8031599003108,
+                        "longitude": 89.53466732171763
+                    }
+                }
+            },
+            {
+                "_id": "6485539a0f78e68bced8e432",
+                "order_number": "01S-79",
+                "date": "2023-06-11",
+                "user": "646b2d4999d44af33c686ddf",
+                "products": [
+                    {
+                        "product": "6476bf03e86690b58768998f",
+                        "store": {
+                            "_id": "6476a8abcee8bf63b040995a",
+                            "name": "Seller Shop",
+                            "location": "Khulna",
+                            "description": "abc.......",
+                            "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476a8aacee8bf63b0409959/logo.png",
+                            "vendor": {
+                                "_id": "6476a869cee8bf63b0409950",
+                                "first_name": "Sabbir",
+                                "last_name": "Ahmmed",
+                                "email": "seller@gmail.com",
+                                "phone": "01725151578"
+                            }
+                        },
+                        "name": "fsdfsdf",
+                        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6476bf01e86690b587689987/product.jpg",
+                        "unit": "kg",
+                        "price": 1000,
+                        "quantity": 2,
+                        "subtotal": 2000,
+                        "_id": "6485539a0f78e68bced8e433"
+                    }
+                ],
+                "net_price": 2000,
+                "subtotal": 1800,
+                "discount": 200,
+                "discount_coupon": {
+                    "code": "2024",
+                    "value": 10,
+                    "discount_type": "percentage"
+                },
+                "vat": 200,
+                "vat_applied": {
+                    "type": "percentage",
+                    "value": 10
+                },
+                "delivery": {
+                    "distance": 4.67,
+                    "per_km_fare": 1,
+                    "fare": 4.67
+                },
+                "total": 2034.67,
+                "payment_status": "pending",
+                "payment_method": "cash_on_delivery",
+                "payment": "648553ad0f78e68bced8e4fe",
+                "status": "pending",
+                "createdAt": "2023-06-11T04:54:50.486Z",
+                "updatedAt": "2023-06-11T04:55:09.663Z",
+                "estimated_delivery_day": "2023-06-18T00:00:00.000Z",
+                "received_time": "any_time",
+                "cus_address": {
+                    "delivery_type": "office",
+                    "address_book": {
+                        "_id": "646dda3b6531490f4ce7924e",
+                        "user": "646b2d4999d44af33c686ddf",
+                        "name": "Ahad",
+                        "phone": "+8801475896",
+                        "province": "Dhaka",
+                        "city": "Dhaka",
+                        "area": "Motijhil",
+                        "address": "2/700 Khan Bahadur Road",
+                        "landmark": "Gulistan",
+                        "delivery": "office",
+                        "default_shipping_address": true,
+                        "default_billing_address": true,
+                        "country": "Bangladesh",
+                        "is_primary": false,
+                        "createdAt": "2023-05-24T09:34:51.115Z",
+                        "updatedAt": "2023-06-11T04:47:49.822Z",
+                        "__v": 0,
+                        "location": {
+                            "type": "Point",
+                            "coordinates": [
+                                89.55679819218751,
+                                22.813134016308517
+                            ]
+                        },
+                        "position": {
+                            "latitude": 22.813134016308517,
+                            "longitude": 89.55679819218751
+                        }
+                    },
+                    "position": {
+                        "latitude": 22.813134016308517,
+                        "longitude": 89.55679819218751
+                    }
+                },
+                "pickup_station": {
+                    "_id": "647d31d676427a3893f39732",
+                    "name": "khulna pickup point",
+                    "address": "Sonadanga, khulna",
+                    "charged": 30,
+                    "pickup_location": {
+                        "latitude": 22.8031599003108,
+                        "longitude": 89.53466732171763
+                    }
+                }
+            },
+            {
+                "_id": "6484dba351261a240031141a",
+                "order_number": "01S-77",
+                "date": "2023-06-10",
+                "user": "646b2d4999d44af33c686ddf",
+                "products": [
+                    {
+                        "product": "646a4b7799d44af33c686c11",
+                        "store": {
+                            "_id": "646ef58f480bea6c4415316a",
+                            "name": "My store",
+                            "location": "Khulna, Bangladesh",
+                            "description": "aa",
+                            "vendor": {
+                                "_id": "642922e96fbdc0bd7a7c1e64",
+                                "first_name": "01 ",
+                                "last_name": "Supplies",
+                                "email": "admin@gmail.com",
+                                "phone": "+8801725151577"
+                            },
+                            "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/logo.png"
+                        },
+                        "name": "New Long Sleeve Casual Shirt for Men",
+                        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a4b7699d44af33c686c07/product.jpg",
+                        "unit": "unit1",
+                        "quantity": 2,
+                        "subtotal": 998,
+                        "_id": "6484dba351261a240031141b"
+                    }
+                ],
+                "net_price": 998,
+                "subtotal": 998,
+                "discount": 0,
+                "discount_coupon": {},
+                "vat": 99.8,
+                "vat_applied": {
+                    "type": "percentage",
+                    "value": 10
+                },
+                "delivery": {
+                    "fare": null
+                },
+                "total": 1247.8,
+                "payment_status": "completed",
+                "payment_method": "stripe",
+                "payment": "6484dbf751261a24003119fd",
+                "status": "pending",
+                "createdAt": "2023-06-10T20:22:59.453Z",
+                "updatedAt": "2023-06-10T20:24:23.620Z",
+                "estimated_delivery_day": "2023-06-16T00:00:00.000Z",
+                "received_time": "any_time",
+                "cus_address": null,
+                "pickup_station": {
+                    "_id": "647ecfe4b7ac78d922c96240",
+                    "name": "Khulna, DoulotPur",
+                    "address": "DoulotPur Bus Stop",
+                    "charged": 150,
+                    "pickup_location": {
+                        "latitude": 22.86844033946918,
+                        "longitude": 89.5264384825167
+                    }
+                }
+            },
+            {
+                "_id": "6484db4e51261a24003112d2",
+                "order_number": "01S-76",
+                "date": "2023-06-10",
+                "user": "646b2d4999d44af33c686ddf",
+                "products": [
+                    {
+                        "product": "646a64a899d44af33c686d32",
+                        "store": {
+                            "_id": "646ef58f480bea6c4415316a",
+                            "name": "My store",
+                            "location": "Khulna, Bangladesh",
+                            "description": "aa",
+                            "vendor": {
+                                "_id": "642922e96fbdc0bd7a7c1e64",
+                                "first_name": "01 ",
+                                "last_name": "Supplies",
+                                "email": "admin@gmail.com",
+                                "phone": "+8801725151577"
+                            },
+                            "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/logo.png"
+                        },
+                        "name": "Bluetooth Earphone with Power Case",
+                        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a64a799d44af33c686d2a/product.jpg",
+                        "unit": "EA Sport",
+                        "quantity": 1,
+                        "subtotal": 500,
+                        "_id": "6484db4e51261a24003112d3"
+                    }
+                ],
+                "net_price": 500,
+                "subtotal": 500,
+                "discount": 0,
+                "discount_coupon": {},
+                "vat": 50,
+                "vat_applied": {
+                    "type": "percentage",
+                    "value": 10
+                },
+                "delivery": {
+                    "distance": 14.02,
+                    "per_km_fare": 50,
+                    "fare": 701
+                },
+                "total": 1281,
+                "payment_status": "completed",
+                "payment_method": "cash_on_delivery",
+                "payment": "6484db6a51261a24003113fb",
+                "status": "delivered",
+                "createdAt": "2023-06-10T20:21:34.287Z",
+                "updatedAt": "2023-06-11T02:36:29.844Z",
+                "estimated_delivery_day": "2023-06-18T00:00:00.000Z",
+                "received_time": "any_time",
+                "cus_address": {
+                    "delivery_type": "home",
+                    "address_book": {
+                        "_id": "646dacbc99d44af33c687d28",
+                        "user": "646b2d4999d44af33c686ddf",
+                        "name": "Talha",
+                        "phone": "123",
+                        "province": "Khulna",
+                        "city": "Khulna",
+                        "area": "Nirala Abashikh",
+                        "address": "Khulna",
+                        "landmark": "Khulna",
+                        "delivery": "home",
+                        "default_shipping_address": true,
+                        "default_billing_address": true,
+                        "createdAt": "2023-05-24T06:20:44.140Z",
+                        "updatedAt": "2023-06-10T20:20:59.971Z",
+                        "__v": 0,
+                        "is_primary": true,
+                        "country": "India",
+                        "location": {
+                            "type": "Point",
+                            "coordinates": [
+                                89.5214413,
+                                22.8694057
+                            ]
+                        },
+                        "position": {
+                            "latitude": 22.8694057,
+                            "longitude": 89.5214413
+                        }
+                    },
+                    "position": {
+                        "latitude": 22.8694057,
+                        "longitude": 89.5214413
+                    }
+                },
+                "pickup_station": {
+                    "_id": "647d31d676427a3893f39732",
+                    "name": "khulna pickup point",
+                    "address": "Sonadanga, khulna",
+                    "charged": 30,
+                    "pickup_location": {
+                        "latitude": 22.8031599003108,
+                        "longitude": 89.53466732171763
+                    }
+                }
+            },
+            {
+                "_id": "6484b2275e639a468eaa3b5e",
+                "order_number": "01S-75",
+                "date": "2023-06-10",
+                "user": "646b2d4999d44af33c686ddf",
+                "products": [
+                    {
+                        "product": "647876cb7e0f87b3be5d2cba",
+                        "store": {
+                            "_id": "6458961950b9ce1f9ed218a3",
+                            "name": "Vendor Store",
+                            "location": "khulna",
+                            "description": "aabbcc",
+                            "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6458961950b9ce1f9ed218a3/logo.webp",
+                            "vendor": {
+                                "_id": "6458942906c88c812ed2ec60",
+                                "first_name": "Vendor",
+                                "last_name": "Ahmed",
+                                "email": "vendor@gmail.com",
+                                "phone": "+880172515166"
+                            }
+                        },
+                        "name": "Sonicwall  TZz670 Secure Upgrade Plus - Essential Edition 2year  Firewall,  02-SSC-5660",
+                        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/647876ca7e0f87b3be5d2cb2/product.jpg",
+                        "unit": "pcs",
+                        "quantity": 1,
+                        "subtotal": 480,
+                        "_id": "6484b2275e639a468eaa3b5f"
+                    }
+                ],
+                "net_price": 480,
+                "subtotal": 480,
+                "discount": 0,
+                "discount_coupon": {},
+                "vat": 48,
+                "vat_applied": {
+                    "type": "percentage",
+                    "value": 10
+                },
+                "delivery": {
+                    "fare": null
+                },
+                "total": 558,
+                "payment_status": "pending",
+                "payment_method": "cash_on_delivery",
+                "payment": "6484b2705e639a468eaa3b6b",
+                "status": "pending",
+                "createdAt": "2023-06-10T17:25:59.494Z",
+                "updatedAt": "2023-06-10T17:27:12.181Z",
+                "estimated_delivery_day": "2023-06-17T00:00:00.000Z",
+                "received_time": "any_time",
+                "cus_address": null,
+                "pickup_station": {
+                    "_id": "647d31d676427a3893f39732",
+                    "name": "khulna pickup point",
+                    "address": "Sonadanga, khulna",
+                    "charged": 30,
+                    "pickup_location": {
+                        "latitude": 22.8031599003108,
+                        "longitude": 89.53466732171763
+                    }
+                }
+            },
+            {
+                "_id": "6484ade1ad12be4809946c44",
+                "order_number": "01S-74",
+                "date": "2023-06-10",
+                "user": "646b2d4999d44af33c686ddf",
+                "products": [
+                    {
+                        "product": "646a5f8c99d44af33c686cde",
+                        "store": {
+                            "_id": "646ef58f480bea6c4415316a",
+                            "name": "My store",
+                            "location": "Khulna, Bangladesh",
+                            "description": "aa",
+                            "vendor": {
+                                "_id": "642922e96fbdc0bd7a7c1e64",
+                                "first_name": "01 ",
+                                "last_name": "Supplies",
+                                "email": "admin@gmail.com",
+                                "phone": "+8801725151577"
+                            },
+                            "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/logo.png"
+                        },
+                        "name": "Oppo A57 4GB/64GB",
+                        "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a5f8a99d44af33c686cd6/product.webp",
+                        "unit": "EA Sport",
+                        "quantity": 1,
+                        "subtotal": 14990,
+                        "_id": "6484ade1ad12be4809946c45"
+                    }
+                ],
+                "net_price": 14990,
+                "subtotal": 14990,
+                "discount": 0,
+                "discount_coupon": {},
+                "vat": 1499,
+                "vat_applied": {
+                    "type": "percentage",
+                    "value": 10
+                },
+                "delivery": {
+                    "fare": null
+                },
+                "total": 16519,
+                "payment_status": "pending",
+                "payment_method": "cash_on_delivery",
+                "payment": "6484adfead12be4809946cc3",
+                "status": "pending",
+                "createdAt": "2023-06-10T17:07:45.426Z",
+                "updatedAt": "2023-06-10T17:08:14.274Z",
+                "estimated_delivery_day": "2023-06-17T00:00:00.000Z",
+                "received_time": "any_time",
+                "cus_address": {
+                    "delivery_type": "home",
+                    "address_book": {
+                        "_id": "6483f597506f39f2c317370d",
+                        "user": "646b2d4999d44af33c686ddf",
+                        "name": "abc",
+                        "phone": "+8801725151578",
+                        "province": "Khulna",
+                        "city": "Khulna",
+                        "area": "Sonadanga",
+                        "address": "Sonadanga, 3rd phase",
+                        "landmark": "beside 250 bed",
+                        "delivery": "home",
+                        "shipping_address": "Sonadanga, 3rd phase",
+                        "default_shipping_address": true,
+                        "billing_address": "Sonadanga, 3rd phase",
+                        "default_billing_address": true,
+                        "country": "String",
+                        "is_primary": true,
+                        "location": {
+                            "coordinates": []
+                        },
+                        "createdAt": "2023-06-10T04:01:27.529Z",
+                        "updatedAt": "2023-06-10T04:01:27.529Z",
+                        "__v": 0
+                    }
+                },
+                "pickup_station": {
+                    "_id": "647d31d676427a3893f39732",
+                    "name": "khulna pickup point",
+                    "address": "Sonadanga, khulna",
+                    "charged": 30,
+                    "pickup_location": {
+                        "latitude": 22.8031599003108,
+                        "longitude": 89.53466732171763
+                    }
+                }
+            }
+        ],
+        "totalDocs": 59,
+        "limit": 10,
+        "page": 1,
+        "totalPages": 6,
+        "pagingCounter": 1,
+        "hasPrevPage": false,
+        "hasNextPage": true,
+        "prevPage": null,
+        "nextPage": 2
+    }
+}

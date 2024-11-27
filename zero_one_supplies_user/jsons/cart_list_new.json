@@ -1,0 +1,61 @@
+{
+  "error": false,
+  "msg": "All Cart data",
+  "data": {
+    "totalCarts": {
+      "_id": null,
+      "carts": 4
+    },
+    "carts": [
+      {
+        "total": 902,
+        "products": [
+          {
+            "cart_id": "657fde55a5d628eb5084cb40",
+            "product": "657436dd42dc2bdfbe3489f5",
+            "attributes": [
+              {
+                "key": "couleur",
+                "option": {
+                  "label": "Violet",
+                  "value": "#8E44AD ",
+                  "price": 0,
+                  "_id": "6574388942dc2bdfbe348ac0"
+                }
+              }
+            ],
+            "extra_price": 0,
+            "quantity": 6,
+            "price": 152,
+            "subtotal": 912,
+            "store": "657432cd42dc2bdfbe348902",
+            "name": "Dev Winter shoes",
+            "image": "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/657436dd42dc2bdfbe3489f5/product.webp",
+            "unit": "pcs",
+            "categories": {
+              "_id": "645b6b0a3880fddaf6330e0e",
+              "name": "Beauté"
+            },
+            "isAuction": false
+          }
+        ],
+        "store": {
+          "_id": "657432cd42dc2bdfbe348902",
+          "name": "Dev_Store"
+        },
+        "couponInfo": {
+          "current_subtotal": 902,
+          "save_money": 10,
+          "coupon_value": "10 F CFA",
+          "coupon_code": "abc",
+          "msg": "Coupon 10 F CFA applied successfully"
+        }
+      }
+    ],
+    "netAmount": 23922,
+    "company_commission": "5%",
+    "charged_amount": 1196.1,
+    "total_save_money": 42,
+    "total": 25076.1
+  }
+}

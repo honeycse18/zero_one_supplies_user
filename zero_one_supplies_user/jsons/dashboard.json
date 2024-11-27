@@ -1,0 +1,222 @@
+{
+    "error": false,
+    "data": {
+      "_id": "6460831b2dd2a0e5d648968b",
+      "categories": [
+        {
+          "_id": "64294e648940c23fdb2ce8f4",
+          "name": "Electronics",
+          "description": " Electronics",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a3fc899d44af33c686b83/category.png",
+          "active": true,
+          "createdAt": "2023-04-02T09:44:04.656Z",
+          "updatedAt": "2023-05-21T15:59:05.262Z",
+          "color": "#f79c39"
+        },
+        {
+          "_id": "645b3b3ade45c0f6e7f1a6e4",
+          "name": "Sports",
+          "description": "Sports",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6464c81212974c18c56d2bf4/category.png",
+          "active": true,
+          "createdAt": "2023-05-10T06:35:38.515Z",
+          "updatedAt": "2023-05-21T15:59:22.775Z",
+          "color": "#4bcbf9"
+        },
+        {
+          "_id": "645b410ae2931ab77e24fb71",
+          "name": "Drinks",
+          "description": "Drinks",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6464c82f12974c18c56d2bfa/category.png",
+          "active": true,
+          "createdAt": "2023-05-10T07:00:26.712Z",
+          "updatedAt": "2023-05-21T15:59:41.458Z",
+          "color": "#48e98a"
+        }
+      ],
+      "auction_products": [
+        {
+          "_id": "646aeef099d44af33c686dc9",
+          "product": {
+            "_id": "646a64a899d44af33c686d32",
+            "name": "Bluetooth Earphone with Power Case",
+            "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a64a799d44af33c686d2a/product.jpg"
+          },
+          "start_date": "2023-05-22T04:26:04.795Z",
+          "end_date": "2023-05-25T04:26:14.845Z",
+          "current_price": 500,
+          "status": true,
+          "createdAt": "2023-05-22T04:26:24.105Z",
+          "is_end": false
+        },
+        {
+          "_id": "6464f20d4d1f9dccff112980",
+          "product": {
+            "_id": "6460831b2dd2a0e5d648968b",
+            "name": "New Unic Headphones",
+            "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64645d3ec602fcd1fb772b81/product.jpg"
+          },
+          "start_date": "2023-05-18T15:25:54.263Z",
+          "end_date": "2023-05-31T15:26:00.891Z",
+          "current_price": 123,
+          "status": true,
+          "createdAt": "2023-05-17T15:26:05.200Z",
+          "is_end": false
+        }
+      ],
+      "flash_sell": [
+        {
+          "_id": "646a64a899d44af33c686d32",
+          "name": "Bluetooth Earphone with Power Case",
+          "price": 500,
+          "new_arrival": true,
+          "createdAt": "2023-05-21T18:36:24.719Z",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a64a799d44af33c686d2a/product.jpg",
+          "rating": 0,
+          "total_review": 0,
+          "discount": false,
+          "discount_value": {}
+        },
+        {
+          "_id": "646a61d999d44af33c686d0a",
+          "name": "Sneakers fashion all-match thick-soled striped",
+          "price": 780,
+          "new_arrival": true,
+          "createdAt": "2023-05-21T18:24:25.886Z",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a61d699d44af33c686d00/product.jpg",
+          "rating": 0,
+          "total_review": 0,
+          "discount": true,
+          "discount_value": {
+            "type": "flat",
+            "amount": 80,
+            "start_date": "2023-05-21T18:00:00.000Z",
+            "end_date": "2023-05-21T18:00:00.000Z"
+          }
+        }
+      ],
+      "top_brands": [
+        {
+          "_id": "645b3dd594ba9146b68d8140",
+          "name": "HP",
+          "description": "aaaa",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/645b3ddd94ba9146b68d8144/brand.png",
+          "active": true,
+          "createdAt": "2023-05-10T06:46:45.972Z",
+          "updatedAt": "2023-05-11T08:16:48.414Z"
+        },
+        {
+          "_id": "645c6870485d7d039baceac1",
+          "name": "Calvin",
+          "description": "lll\n",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/645c686f485d7d039baceabf/brand.png",
+          "active": true,
+          "createdAt": "2023-05-11T04:00:48.712Z",
+          "updatedAt": "2023-05-16T08:00:01.444Z"
+        },
+        {
+          "_id": "646459dee862941f4edbbb04",
+          "name": "Plant",
+          "description": "aa",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646459dee862941f4edbbb02/brand.png",
+          "active": true,
+          "createdAt": "2023-05-17T04:36:46.727Z",
+          "updatedAt": "2023-05-17T04:36:46.727Z"
+        }
+      ],
+      "popular_products": [
+        {
+          "_id": "646a60bf99d44af33c686cf4",
+          "name": "Lotto Casual Lifestyle Shoe for Men",
+          "price": 500,
+          "new_arrival": true,
+          "createdAt": "2023-05-21T18:19:43.411Z",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a60bb99d44af33c686cec/product.webp",
+          "rating": 0,
+          "total_review": 0,
+          "discount": false,
+          "discount_value": {}
+        },
+        {
+          "_id": "646a61d999d44af33c686d0a",
+          "name": "Sneakers fashion all-match thick-soled striped",
+          "price": 780,
+          "new_arrival": true,
+          "createdAt": "2023-05-21T18:24:25.886Z",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a61d699d44af33c686d00/product.jpg",
+          "rating": 0,
+          "total_review": 0,
+          "discount": true,
+          "discount_value": {
+            "type": "flat",
+            "amount": 80,
+            "start_date": "2023-05-21T18:00:00.000Z",
+            "end_date": "2023-05-21T18:00:00.000Z"
+          }
+        }
+      ],
+      "top_seller": [
+        {
+          "_id": "6458961950b9ce1f9ed218a3",
+          "name": "My store",
+          "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6458961950b9ce1f9ed218a3/logo.webp",
+          "createdAt": "2023-05-08T06:26:33.793Z",
+          "category": "Electronic"
+        },
+        {
+          "_id": "645f8312325d0357cedc007e",
+          "name": "asdsad",
+          "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/645f8311325d0357cedc007d/logo.png",
+          "createdAt": "2023-05-13T12:31:14.414Z",
+          "category": "Sport"
+        }
+      ],
+      "ending_soon": [
+        {
+          "_id": "646aeef099d44af33c686dc9",
+          "product": {
+            "_id": "646a64a899d44af33c686d32",
+            "name": "Bluetooth Earphone with Power Case",
+            "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a64a799d44af33c686d2a/product.jpg"
+          },
+          "start_date": "2023-05-22T04:26:04.795Z",
+          "end_date": "2023-05-25T04:26:14.845Z",
+          "current_price": 500,
+          "status": true,
+          "createdAt": "2023-05-22T04:26:24.105Z",
+          "is_end": false
+        },
+        {
+          "_id": "6464f18a4d1f9dccff112959",
+          "product": {
+            "_id": "64633afb7ffad4e41f0e676e",
+            "name": "Men’s full sleeve Jaket ",
+            "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64633af97ffad4e41f0e6768/product.png"
+          },
+          "start_date": "2023-05-17T15:23:43.920Z",
+          "end_date": "2023-05-29T15:23:47.935Z",
+          "current_price": 500,
+          "status": true,
+          "createdAt": "2023-05-17T15:23:54.214Z",
+          "is_end": false
+        }
+      ],
+      "sliders": [
+        {
+          "category": "645b6b0a3880fddaf6330e0e",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646329de85e451bebb95f5f0/app-slider-0.jpg",
+          "_id": "64b25493fc4bc0513736a9a6"
+        },
+        {
+          "category": "645b6606cba4ab8a9f200add",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646329de85e451bebb95f5f0/app-slider-1.webp",
+          "_id": "64b25493fc4bc0513736a9a7"
+        },
+        {
+          "category": "645b3b3ade45c0f6e7f1a6e4",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646329de85e451bebb95f5f0/app-slider-2.png",
+          "_id": "64b25493fc4bc0513736a9a8"
+        }
+      ]
+    }
+}

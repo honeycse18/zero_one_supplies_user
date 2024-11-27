@@ -1,0 +1,85 @@
+{
+    "error": false,
+    "data": {
+        "docs": [
+            {
+                "_id": "648aac901c48623ee2683c39",
+                "user": {
+                    "_id": "646b434301f7500aa8206ef5",
+                    "first_name": "jubair",
+                    "last_name": "a",
+                    "email": "ta99@gmail.com",
+                    "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646b434301f7500aa8206ef5/profile.jpg"
+                },
+                "product": "646a60bf99d44af33c686cf4",
+                "store": "646ef58f480bea6c4415316a",
+                "rating": 3,
+                "review": "test",
+                "active": true,
+                "createdAt": "2023-06-15T06:15:44.238Z",
+                "updatedAt": "2023-06-15T06:15:44.238Z",
+                "__v": 0
+            },
+            {
+                "_id": "647ec290e2e191b128204d03",
+                "user": {
+                    "_id": "646b2d4999d44af33c686ddf",
+                    "first_name": "I am",
+                    "last_name": "User",
+                    "email": "user@gmail.com",
+                    "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6458942906c88c812ed2ec60/image.jpg"
+                },
+                "product": "646a60bf99d44af33c686cf4",
+                "rating": 4,
+                "review": "nice",
+                "active": true,
+                "createdAt": "2023-06-06T05:22:24.021Z",
+                "updatedAt": "2023-06-06T05:22:24.021Z",
+                "__v": 0
+            },
+            {
+                "_id": "647636a98b88c4600ea6cfcb",
+                "user": {
+                    "_id": "642922e96fbdc0bd7a7c1e64",
+                    "first_name": "01 ",
+                    "last_name": "Supplies",
+                    "email": "admin@gmail.com",
+                    "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/642922e96fbdc0bd7a7c1e64/profile.webp"
+                },
+                "product": "646a60bf99d44af33c686cf4",
+                "rating": 4,
+                "review": "good one",
+                "active": true,
+                "createdAt": "2023-05-30T17:47:21.497Z",
+                "updatedAt": "2023-05-30T17:47:35.336Z",
+                "__v": 0
+            },
+            {
+                "_id": "6476030272b27a9e6844ce0a",
+                "user": {
+                    "_id": "6458942906c88c812ed2ec60",
+                    "first_name": "Vendor",
+                    "last_name": "Ahmed",
+                    "email": "vendor@gmail.com",
+                    "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6458942906c88c812ed2ec60/image.jpg"
+                },
+                "product": "646a60bf99d44af33c686cf4",
+                "rating": 3,
+                "review": "vendor review",
+                "active": true,
+                "createdAt": "2023-05-30T14:06:58.898Z",
+                "updatedAt": "2023-05-30T14:43:48.909Z",
+                "__v": 0
+            }
+        ],
+        "totalDocs": 4,
+        "limit": 10,
+        "page": 1,
+        "totalPages": 1,
+        "pagingCounter": 1,
+        "hasPrevPage": false,
+        "hasNextPage": false,
+        "prevPage": null,
+        "nextPage": null
+    }
+}

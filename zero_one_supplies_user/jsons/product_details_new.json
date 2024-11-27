@@ -1,0 +1,177 @@
+{
+  "error": false,
+  "data": {
+    "_id": "65432c70fb2f661b9df9fbc6",
+    "store": {
+      "products": [
+        {
+          "_id": "65465ab553aa81f2d9d3cd5d",
+          "name": "Oeuvre d'art",
+          "product_condition": "new",
+          "price": 289000,
+          "new_arrival": true,
+          "createdAt": "2023-11-04T14:52:37.448Z",
+          "image": "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/65465ab553aa81f2d9d3cd5d/product.webp",
+          "rating": 0,
+          "total_review": 0,
+          "discount": false,
+          "discount_value": {},
+          "current_price": 289000,
+          "isFavorite": false
+        }
+      ],
+      "info": {
+        "totalRating": 4,
+        "name": "My store",
+        "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/logo.png",
+        "category": {
+          "_id": "645aa77b21013a7e484ee814",
+          "name": "Electronic"
+        },
+        "verified": true,
+        "_id": "646ef58f480bea6c4415316a",
+        "seller_reviews": 1,
+        "positiveSellerReview": 80,
+        "avg_rating": 4,
+        "type": "Best Seller"
+      }
+    },
+    "name": "GOOGLE PIXEL 8 PRO",
+    "model": "GOOGLE PIXEL",
+    "product_condition": "new",
+    "brand": {
+      "_id": "64ebde5faa0ceaca9096e574",
+      "name": "Best Brand"
+    },
+    "categories": [
+      {
+        "_id": "64294e648940c23fdb2ce8f4",
+        "name": "Electronics"
+      }
+    ],
+    "subcategories": [
+      {
+        "_id": "645f59c068f9bdd736227b3e",
+        "name": "Smartphone & Accessoires"
+      }
+    ],
+    "unit": "pcs",
+    "quantity": {
+      "unit_quantity": 1,
+      "stock_quantity": 299,
+      "min_purchase_quantity": 1,
+      "stock_alert_quantity": 0
+    },
+    "tags": [
+      "Shopping au Togo",
+      "Acheter téléphone au Togo",
+      "Achat à Lomé",
+      "Acheter à Lomé de façon sûre"
+    ],
+    "description": {
+      "short": "<p><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 16px;font-family: Verdana;\">Google Pixel 8 Pro – Smartphone Android débloqué avec téléobjectif, 24 Heures d'autonomie et écran Super Actua– Bleu Azur, 128GB</span>&nbsp;</p>\n<p></p>\n<p></p>\n<div style=\"text-align:none;\"><img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/99c791f1-651f-49c8-9d4c-7205ff8615d8_ohmDbDj.gif\" alt=\"undefined\" style=\"height: auto;width: auto\"/></div>\n<p></p>\n<img src=\"https://www.zdnet.com/a/img/resize/5b896bf84f0cbe99a9d0c7d1dae39accc1fec0bc/2023/10/02/9f7be478-fed7-4d18-88c0-23e057f73ce8/google-pixel-8-pro-colors.jpg?auto=webp&width=1280\" alt=\"undefined\" style=\"height: auto;width: auto\"/>\n<p></p>\n",
+      "long": "<p>More details please visit google.com</p>\n"
+    },
+    "price": 680000,
+    "quantity_based_price": [
+      {
+        "minimum": 1,
+        "maximum": 2,
+        "price": 680000,
+        "_id": "65432c70fb2f661b9df9fbc7"
+      }
+    ],
+    "product_image": "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/65432c69fb2f661b9df9fbbc/product.webp",
+    "gallery_images": [
+      "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/65432c6dfb2f661b9df9fbc0/gallery-1698901101102.webp",
+      "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/65432c6efb2f661b9df9fbc2/gallery-1698901102242.webp",
+      "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/65432c6ffb2f661b9df9fbc4/gallery-1698901103371.webp"
+    ],
+    "thumb_image": "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/65432c6cfb2f661b9df9fbbe/thumb.webp",
+    "specification_description": "",
+    "stock_available": true,
+    "stock_visibility": true,
+    "flash_deal": true,
+    "new_arrival": true,
+    "bulk": false,
+    "trash": false,
+    "user_requested": false,
+    "is_status": true,
+    "attribute": [],
+    "variants": [],
+    "createdAt": "2023-11-02T04:58:24.643Z",
+    "updatedAt": "2023-11-10T07:10:57.529Z",
+    "related_products": [
+      {
+        "_id": "654893bc47beb11a813e76a9",
+        "store": {
+          "_id": "6476a8abcee8bf63b040995a",
+          "name": "Seller Shop",
+          "verified": true
+        },
+        "name": "Samsung Galaxy S22 5G",
+        "product_condition": "new",
+        "price": 280000,
+        "new_arrival": true,
+        "createdAt": "2023-11-06T07:20:28.090Z",
+        "image": "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/654893a447beb11a813e76a1/image.jpg",
+        "rating": 0,
+        "total_review": 0,
+        "discount": false,
+        "discount_value": {},
+        "current_price": 280000,
+        "isFavorite": true
+      }
+    ],
+    "product_rating_wise_user": [
+      {
+        "_id": {
+          "rating": 4
+        },
+        "count": 1
+      }
+    ],
+    "coupon_codes": [
+        {
+          "_id": "65b61336fc8e0a8613dd4208",
+          "name": "winter",
+          "code": "my",
+          "value": 15,
+          "discount_type": "percentage",
+          "min_spend": 150,
+          "start_date": "2024-01-28T08:41:14.291Z",
+          "end_date": "2024-01-29T08:41:14.291Z",
+          "description": "asdfghjkl"
+        }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "_id": "646b2d4999d44af33c686ddf",
+          "first_name": "john",
+          "last_name": "doe",
+          "email": "user@gmail.com",
+          "image": "https://01supplies.s3.eu-north-1.amazonaws.com/live/01supplies/store/656461a1ea0cb46f8faa30ed/image.jpg"
+        },
+        "review": "asas",
+        "rating": 4,
+        "createdAt": "2023-06-15T06:20:53.044Z"
+      }
+    ],
+    "total_review": 1,
+    "rating": 4,
+    "specifications": {},
+    "discount": false,
+    "discount_value": {},
+    "current_price": 680000,
+    "isFavorite": false,
+    "delivery_info": {
+      "delivery": 1,
+      "shipping": 680000,
+      "product_return": {
+        "days": 1,
+        "msg": "Retour possible si défaut constaté"
+      }
+    }
+  }
+}

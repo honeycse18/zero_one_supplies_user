@@ -1,0 +1,38 @@
+{
+    "cus_address" : {
+    "delivery_type": "office",
+    "address_book": {
+        "_id": "646dda3b6531490f4ce7924e",
+        "user": "646b2d4999d44af33c686ddf",
+        "name": "Ahad",
+        "phone": "+8801475896",
+        "province": "Dhaka",
+        "city": "Dhaka",
+        "area": "Motijhil",
+        "address": "2/700 Khan Bahadur Road",
+        "landmark": "Gulistan",
+        "delivery": "office",
+        "default_shipping_address": true,
+        "default_billing_address": true,
+        "country": "Bangladesh",
+        "is_primary": false,
+        "createdAt": "2023-05-24T09:34:51.115Z",
+        "updatedAt": "2023-06-11T05:32:44.774Z",
+        "__v": 0,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                89.55679819218751,
+                22.813134016308517
+            ]
+        },
+        "position": {
+            "latitude": 22.813134016308517,
+            "longitude": 89.55679819218751
+        }
+    },
+    "position": {
+        "latitude": 22.813134016308517,
+        "longitude": 89.55679819218751
+    }
+}}

@@ -1,0 +1,61 @@
+{
+    "error": false,
+    "data": {
+        "docs": [
+            {
+                "_id": "646a5aa999d44af33c686c93",
+                "name": "EA Sport",
+                "description": "ea",
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a5aa899d44af33c686c91/brand.png",
+                "active": true,
+                "createdAt": "2023-05-21T17:53:45.263Z",
+                "updatedAt": "2023-05-24T12:11:57.602Z"
+            },
+            {
+                "_id": "64684a66060034d829c8bdf9",
+                "name": "Bioaqua",
+                "description": "This is Brand\n",
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64684a65060034d829c8bdf7/brand.png",
+                "active": true,
+                "createdAt": "2023-05-20T04:19:50.089Z",
+                "updatedAt": "2023-05-20T04:19:50.089Z"
+            },
+            {
+                "_id": "646459dee862941f4edbbb04",
+                "name": "Plant",
+                "description": "aa",
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646459dee862941f4edbbb02/brand.png",
+                "active": true,
+                "createdAt": "2023-05-17T04:36:46.727Z",
+                "updatedAt": "2023-05-17T04:36:46.727Z"
+            },
+            {
+                "_id": "645c6870485d7d039baceac1",
+                "name": "Calvin",
+                "description": "lll\n",
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/645c686f485d7d039baceabf/brand.png",
+                "active": true,
+                "createdAt": "2023-05-11T04:00:48.712Z",
+                "updatedAt": "2023-05-16T08:00:01.444Z"
+            },
+            {
+                "_id": "645b3dd594ba9146b68d8140",
+                "name": "HP",
+                "description": "aaaa",
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/645b3ddd94ba9146b68d8144/brand.png",
+                "active": true,
+                "createdAt": "2023-05-10T06:46:45.972Z",
+                "updatedAt": "2023-05-11T08:16:48.414Z"
+            }
+        ],
+        "totalDocs": 5,
+        "limit": 10,
+        "page": 1,
+        "totalPages": 1,
+        "pagingCounter": 1,
+        "hasPrevPage": false,
+        "hasNextPage": false,
+        "prevPage": null,
+        "nextPage": null
+    }
+}

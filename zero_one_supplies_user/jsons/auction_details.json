@@ -1,0 +1,69 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": {
+    "_id": "6464f20d4d1f9dccff112980",
+    "product": { 
+      "_id": "6460831b2dd2a0e5d648968b",
+      "store": {
+        "_id": "6458961950b9ce1f9ed218a3",
+        "name": "My store"
+      },
+      "name": "New Unic Headphones",
+      "categories": [
+        {
+          "_id": "64294e648940c23fdb2ce8f4",
+          "name": "Electronics"
+        }
+      ],
+      "subcategories": [
+        {
+          "_id": "645f59c068f9bdd736227b3e",
+          "name": "mobile"
+        }
+      ],
+      "gallery_images": [
+        "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6469a1d5ca31b8463dd62646/gallery.png",
+        "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/6469a1d5ca31b8463dd62648/gallery.png"
+      ],
+      "specifications": [
+        {
+          "key": "Weight",
+          "value": "0.400 kg",
+          "_id": "6461ed2c12672a538c1cb827"
+        },
+        {
+          "key": "Height",
+          "value": "2.25 cm",
+          "_id": "64645d40c602fcd1fb772b8c"
+        }
+      ],
+      "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64645d3ec602fcd1fb772b81/product.jpg",
+      "rating": 0,
+      "delivery_info": {
+        "delivery": 5,
+        "shipping": 150,
+        "product_return": {
+          "days": 7,
+          "msg": "Without Any Damage"
+        }
+      },
+      "reviews": {},
+      "description": "<p style=\"text-align:start;\"><span style=\"color: rgb(33,33,33);background-color: rgb(250,250,250);font-size: 16px;font-family: Roboto-Medium;\">Product details of UGREEN HiTune X6 Hybrid Active Noise Cancelling Wireless Earbuds-Bluetooth Earphones with 6 Mics Clear Call</span>&nbsp;</p>\n"
+    },
+    "start_date": "2023-05-18T15:25:54.263Z",
+    "end_date": "2023-05-31T15:26:00.891Z",
+    "bid_users": [{
+      "user": "6458942906c88c812ed2ec60",
+      "first_name": "Vendor 1",
+      "last_name": "",
+      "bid_amount": "507",
+      "date": "2023-05-27T10:07:44.357Z",
+      "_id": "6471d670f8d54c6611f99dd2"
+    }],
+    "current_price": 123,
+    "status": true,
+    "createdAt": "2023-05-17T15:26:05.200Z",
+    "is_end": false
+  }
+}
